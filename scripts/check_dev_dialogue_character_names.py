@@ -35,6 +35,7 @@ EXCLUDED_PREFIXES = (
     "现在：",
 )
 SYSTEM_ACTION_TAGS = ("<", ">", "[")
+BROADCAST_HEADER_RE = re.compile(r"^【[^】]*】(.*)$")
 
 # Canonical group: English label -> accepted Chinese dialogue spellings.
 # The first spelling is the canonical UI/reference spelling; the remaining
@@ -87,6 +88,7 @@ class DialogueRecord:
     speaker_raw: str
     speaker_display: str
     text: str
+    unmapped_names: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -195,6 +197,75 @@ def extract_named_dialogue(
     )
 
 
+def broadcast_participants(raw_line: str) -> list[str]:
+    """Return named participants from a chatlog broadcast header.
+
+    Only Chinese name tails are returned. Informational headers such as
+    “通讯清单”, “设备清单”, “错误”, or status notices are not participant
+    lists and yield no candidates.  Anonymous public-group headers are also
+    ignored because they do not contain a usable character-name list.
+    """
+    match = BROADCAST_HEADER_RE.match(raw_line)
+    if not match:
+        return []
+    tail = match.group(1)
+    if any(
+        marker in raw_line
+        for marker in ("通讯清单", "设备清单", "过滤器", "等待已派遣", "消息标题格式错误")
+    ):
+        return []
+    # Normalize line breaks used inside broadcast headers.
+    if "<LINE>" in tail:
+        tail = tail.split("<LINE>")[-1]
+    tail = tail.replace("<LINE>", "、").replace("<LINE> ", "、")
+    # Cut every framing phrase before the actual character-name list.
+    cut_phrases = (
+        "私聊、强制 - ",
+        "私聊 - ",
+        "私聊<LINE>",
+        "广播 未知群组（空）",
+        "广播未知群组（空）",
+        "广播 未知群组（空）",
+        "（公告）",
+        "公告）",
+        "至本地群组",
+    )
+    for phrase in cut_phrases:
+        if phrase in tail:
+            tail = tail.split(phrase)[-1]
+    tail = tail.lstrip(" -、").strip()
+    candidates = re.split(r"[、,，]", tail)
+    participants = []
+    for candidate in candidates:
+        candidate = candidate.strip().lstrip("-").strip()
+        # Reject framing pieces that are not standalone character names.
+        lowered = candidate.casefold()
+        if any(
+            keyword in lowered
+            for keyword in ("所有参与者皆为匿名", "非公开群组", "公开群组", "未知群组", "空）", "本地群组")
+        ):
+            continue
+        if candidate and candidate not in participants:
+            participants.append(candidate)
+    return participants
+
+
+def extract_broadcast_dialogue(
+    path: Path, line_number: int, raw_line: str
+) -> DialogueRecord | None:
+    participants = broadcast_participants(raw_line)
+    if not participants:
+        return None
+    return DialogueRecord(
+        path=path,
+        line_number=line_number,
+        raw_line=raw_line,
+        speaker_raw=participants[0],
+        speaker_display=raw_line,
+        text="、".join(participants),
+    )
+
+
 def dialogue_records(path: Path) -> list[DialogueRecord]:
     records: list[DialogueRecord] = []
     for line_number, raw_line in enumerate(
@@ -203,8 +274,6 @@ def dialogue_records(path: Path) -> list[DialogueRecord]:
         if not raw_line.strip():
             continue
         if raw_line.startswith("0-") and line_number == 1:
-            continue
-        if raw_line.startswith("【"):
             continue
         named = extract_named_dialogue(path, line_number, raw_line)
         if named is not None and not any(
@@ -215,6 +284,10 @@ def dialogue_records(path: Path) -> list[DialogueRecord]:
         numeric = extract_numeric_dialogue(path, line_number, raw_line)
         if numeric is not None:
             records.append(numeric)
+            continue
+        broadcast = extract_broadcast_dialogue(path, line_number, raw_line)
+        if broadcast is not None:
+            records.append(broadcast)
     return records
 
 
@@ -224,6 +297,33 @@ def report_variants(records: list[DialogueRecord]) -> list[NameVariant]:
 
     for record in records:
         speaker_clean = record.speaker_raw.rstrip("：:")
+
+        # Broadcast headers may list several participants separated by 、.
+        # Scan every participant before deciding whether this record has an
+        # unmapped speaker.
+        if "【" in record.raw_line and "、" in record.text:
+            participants = record.text.split("、")
+            for participant in participants:
+                participant = participant.strip().lstrip("-").strip()
+                if not participant:
+                    continue
+                if participant in alias_to_english:
+                    character = alias_to_english[participant]
+                    aliases = CHARACTER_GROUPS.get(character, (participant,))
+                    canonical = aliases[0]
+                    if canonical != participant:
+                        variants.append(
+                            NameVariant(
+                                character=character,
+                                alias=participant,
+                                canonical=canonical,
+                                source=record.raw_line,
+                                path=record.path,
+                                line_number=record.line_number,
+                            )
+                        )
+            continue
+
         if speaker_clean in alias_to_english:
             character = alias_to_english[speaker_clean]
             aliases = CHARACTER_GROUPS.get(character, (speaker_clean,))
@@ -276,6 +376,33 @@ def unmapped_named_speakers(records: list[DialogueRecord]) -> list[DialogueRecor
             continue
         if speaker_clean in DEVELOPER_SPEAKERS:
             continue
+        # Broadcast headers may contain several participants; report only
+        # unknown participant names, never the whole header text.
+        if "【" in record.raw_line:
+            participants = record.text.split("、")
+            unknown = [
+                participant.strip()
+                for participant in participants
+                if participant.strip()
+                and participant.strip() not in alias_to_english
+                and participant.strip() not in DEVELOPER_SPEAKERS
+            ]
+            if unknown:
+                # Preserve the original record for context but attach the
+                # unknown names so the report never prints a full header as a
+                # speaker name.
+                unmapped.append(
+                    DialogueRecord(
+                        path=record.path,
+                        line_number=record.line_number,
+                        raw_line=record.raw_line,
+                        speaker_raw=record.speaker_raw,
+                        speaker_display="、".join(unknown),
+                        text=record.text,
+                        unmapped_names=tuple(unknown),
+                    )
+                )
+            continue
         unmapped.append(record)
     return unmapped
 
@@ -317,8 +444,11 @@ def build_report(
     lines.append("Unmapped named speakers:")
     if unmapped_speakers:
         for record in unmapped_speakers:
+            display_name = record.speaker_display
+            if record.unmapped_names:
+                display_name = "、".join(record.unmapped_names)
             lines.append(
-                f"[UNMAPPED] {record.speaker_display} | "
+                f"[UNMAPPED] {display_name} | "
                 f"{display_path(record.path)}:{record.line_number} "
                 f"| {record.raw_line}"
             )

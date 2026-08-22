@@ -2302,7 +2302,7 @@ watcher-character-description|一个局外者，孤独又疏离，持续观察�
 watcher-description|扩展包添加了一个新剧情：旁观者。本扩展包包含新的区域、生物、机制、物品、150余首全新音乐曲目，还有更多内容等你发现。
 creaturetype-ScavengerTemplar|拾荒者圣堂武士
 Scavenger Templars|拾荒者圣堂武士
-Outer Rim|边缘界域
+Outer Rim|边域
 Deep Reef|深礁
 Rusted Wrecks|锈蚀残骸
 Torrid Desert|炙热沙漠
