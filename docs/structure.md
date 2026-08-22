@@ -36,7 +36,20 @@ This is the actual dev space for translation work. It contains the unapproved/pr
 
 
 ### Release structure
-The folder contains the release contents ready for release as a game mod. It should not be actively edited in most times. Only perform updates in the `config.json` file if asked. 
+Release-ready content is now maintained in a separate Git repository, referenced from the main repository as the `release/` submodule.
+
+```
+release/
+├── content/
+├── text/
+├── illustrations/
+├── plugins/
+├── modinfo.json
+├── workshopdata.json
+└── thumbnail.png
+```
+
+The `release/` submodule contains the complete mod artifact set (text, content, illustrations, plugin binaries, assets, metadata). Approved dev translations are synchronized into it with `scripts/sync_release.py`. The submodule should not be actively edited directly; use the sync script.
 
 ### MediaAssets
 Contains PSD/AI files for display. DO NOT MODIFY unless asked. 

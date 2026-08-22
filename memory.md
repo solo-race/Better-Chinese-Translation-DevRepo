@@ -18,8 +18,10 @@ This file records the current state of the Rain World Chinese localization proje
 - `Dev/Dev-texts/`: current translation workspace.
   - Merged dialogue/story files and the unified `strings.txt`.
   - This is where proposed translation edits belong.
-- `Release/`: approved, release-ready mod content.
-  - Normally not edited except for requested config changes.
+- `release/`: git submodule containing approved, release-ready mod content.
+  - Points to the standalone release repository: `https://github.com/solo-race/Better-Chinese-Translation-ReleaseRepo`.
+  - Contains `text/`, `content/`, `illustrations/`, `plugins/`, `modinfo.json`, `workshopdata.json`, and `thumbnail.png`.
+  - Approved translations are synchronized into it with `scripts/sync_release.py`.
 - `scripts/`: automation scripts and operation guide.
   - `scripts/reports/` is ignored by Git and holds generated reports.
 - `docs/structure.md`: detailed folder-structure documentation.
@@ -111,10 +113,11 @@ As of the latest verified runs:
   - Consistent translations: 7
 - Dev dialogue character-name scanner:
   - Scanned files: 359
-  - Dialogue records: 965
-  - Character alias variants: 49
+  - Dialogue records: 986
+  - Character alias variants: 51
   - Unmapped named speakers: 10
-  - Known variants: `五瓶百石` for Five Pebbles; `月亮大姐` for Looks to the Moon.
+  - Broadcast headers are also scanned for participant names.
+  - Known variants: `五瓶百石` for Five Pebbles; `月亮大姐` and `月亮大姐姐` for Looks to the Moon.
   - Known unmapped speakers: `主持者`, `手势之铃` in `240.txt`.
 
 ## Environment
@@ -128,6 +131,8 @@ As of the latest verified runs:
 
 - Keep `Dev/Raw-texts/` read-only.
 - Never edit release text or multimedia assets unless explicitly requested.
+- When dev translations are approved, run `scripts/sync_release.py` to copy them into the `release/` submodule.
+- The sync script does not push; the developer commits and pushes the submodule update manually.
 - When the official game updates:
   - Re-run all scripts.
   - Check every generated report.
@@ -135,3 +140,9 @@ As of the latest verified runs:
   - If a new character appears in dialogue, add it to `CHARACTER_GROUPS` in `check_dev_dialogue_character_names.py`.
   - If a new character name appears in official strings, consider adding it to `CHARACTER_NAME_VALUES` in `check_item_translation_consistency.py`.
 - Generated reports under `scripts/reports/` are intentionally ignored and should not be committed.
+
+## Release packaging
+
+- Standalone release repository: `https://github.com/solo-race/Better-Chinese-Translation-ReleaseRepo`.
+- It is mounted in the main repo as the `release/` git submodule.
+- Packaging is triggered by a tag push in the release repository; the GitHub Actions workflow creates a zip and uploads it as a GitHub Release.

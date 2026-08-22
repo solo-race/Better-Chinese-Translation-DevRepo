@@ -15,3 +15,6 @@ desktop.ini
 
 # Script output artifacts
 scripts/reports/
+
+# Local release sync staging artifacts
+release/.tmp/
