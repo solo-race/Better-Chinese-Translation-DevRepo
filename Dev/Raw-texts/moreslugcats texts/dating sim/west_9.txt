@@ -1,0 +1,15 @@
+sm10
+gm2
+
+You take out the egg from your pouch, and offer it to the hefty slugcat.
+They smile, and begin grinning from ear to ear.
+"You brought me food?" they say.
+"uh...yea! u want it?" you ask nervously.
+"Yes! I want it. Give it to me."
+They begin heating the egg over the fire, making scrambled eggs.
+"How did you know I love eggs?" the hefty slugcat asks, beaming.
+You stare at them, still nervous and unsure of what to say.
+"uh... idk??"
+
+You watch them cook.
+west_10.txt

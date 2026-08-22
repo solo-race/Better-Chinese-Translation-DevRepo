@@ -1,0 +1,12 @@
+sm5
+gm6
+
+A bomb drops out of their mouth, and they fumble to try to pick it up. 
+However, it accidentally detonates.
+You close your eyes from the blast, and feel heat on your back.
+You disintegrate.
+
+RESTART
+start.txt
+
+FADE

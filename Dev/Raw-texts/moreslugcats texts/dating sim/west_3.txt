@@ -1,0 +1,16 @@
+sm2
+gm1
+
+"I hear that. Things have been getting worse for us lately, haven't they? 
+It's been tough for myself as well," the hefty slugcat says.
+"rly? ur huge, and have like... infinity supplies! how u lonely?" you ask.
+"I can procure many things from my stomach, but love is not one of them."
+The hefty slugcat sighs, and sits near you. 
+You realize that the ground is wet, but you sit as well.
+
+Pat them on the back.
+west_4a.txt
+Hold their hand.
+west_4b.txt
+Give them a hug.
+west_4c.txt

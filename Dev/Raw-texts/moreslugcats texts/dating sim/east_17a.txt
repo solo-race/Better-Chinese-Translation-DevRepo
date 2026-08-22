@@ -1,0 +1,15 @@
+sm5
+bsm3m2
+
+You stick the marshmallow in your mouth, and it is immediately not what you were expecting.
+While it is soft and chewy like a good slime mold would be, it has an added layer of awful spice.
+It's actually so gross. Your entire mouth is on fire.
+As you swallow, you feel as if acid is running through your insides.
+You fall to the ground in pain. What did you just eat?!
+The world around you goes blurry as the fire rages inside.
+This will be your final meal.
+
+RESTART
+start.txt
+
+FADE

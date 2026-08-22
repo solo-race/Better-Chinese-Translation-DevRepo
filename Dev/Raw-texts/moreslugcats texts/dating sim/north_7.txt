@@ -1,0 +1,15 @@
+sm9
+sp3
+
+"it's ok, we slugcats need to stick together. ilu bby <3"
+You wipe the tears out of Spearmaster's eyes.
+"Thank you, I needed to hear that." Spearmaster says.
+"... But speaking of nerfed, I'm hungry and I need to find nutrients to siphon with my spears."
+Spearmaster generates a fresh spear out of their tail and looks at it with admiration.
+
+"let's go search for food"
+north_8.txt
+"wat about me?"
+north_10.txt
+"i got eggs on the house"
+north_9.txt

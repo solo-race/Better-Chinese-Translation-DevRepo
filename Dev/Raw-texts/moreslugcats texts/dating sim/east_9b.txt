@@ -1,0 +1,12 @@
+sm2
+rv5
+
+The slugcat looks at you quizzically.
+"You gotta be going now... to go see my mother?"
+"no-"
+"Yay!! I'm so glad! Let's go!!"
+They pounce on your back, flip over your shoulders, and then grasp your hand firmly.
+Before you can react, you are being swiftly dragged out of the cave by them.
+
+"yo, dude, wait!!"
+east_10.txt

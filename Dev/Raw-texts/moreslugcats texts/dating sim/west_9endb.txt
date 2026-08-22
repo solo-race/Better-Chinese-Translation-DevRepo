@@ -1,0 +1,15 @@
+sm12
+gm2
+
+The hefty slugcat sits down next to you, and you begin eating the food they've made.
+You fill your stomach up faster than you have in any other cycle before.
+The slugcat smiles and hands you more food.
+"ah, no thx, im already at max food pips."
+"Nonsense, please enjoy my cooking! Don't insult the chef!"
+You force yourself to keep eating beyond your limits.
+Suddenly, the game crashes with an IndexOutOfRange error in HUD.FoodMeter()
+
+RESTART
+start.txt
+
+FADE

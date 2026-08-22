@@ -1,0 +1,16 @@
+sm5
+kaboom
+
+You pick up a rock and hand it to the mother slugcat. 
+She holds it in her hand and stares at it, but doesn't seem to be pleased.
+She places it into her mouth, coating it with an explosive substance. 
+She spits it out, having turned the rock into an explosive. 
+She holds it in her paws and seems to admire it, and then throws it at you. 
+It explodes upon impact with you, causing you to fall backwards. 
+You are dazed and confused as the world spins around you.
+You struggle to breathe as the world fades to black.
+
+RESTART
+start.txt
+
+FADE

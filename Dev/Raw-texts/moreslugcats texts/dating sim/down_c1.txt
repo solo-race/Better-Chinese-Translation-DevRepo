@@ -1,0 +1,11 @@
+sm8
+sa1
+
+The slugcat gives you a strange look, but then complies.
+Their tongue launches at you slapping you across the cheek.
+As it retracts, the stickiness of it pulls you forwards causing you to faceplant onto the floor.
+That was less romantic than you thought it would be.
+Actually quite insulting.
+
+Lay there in embarassment.
+down_c2.txt

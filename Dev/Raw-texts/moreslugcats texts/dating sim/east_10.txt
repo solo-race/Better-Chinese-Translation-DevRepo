@@ -1,0 +1,10 @@
+sm8
+rv4
+
+You're rapidly escorted along the surface of the water towards
+a towering monolith of a structure in the distance.
+The slugcat does not let up their energy as they take you inside the
+structure and you quickly weave through a maze of interior passages.
+
+"ur mother lives here??"
+east_11.txt

@@ -1,0 +1,10 @@
+sm1
+none
+
+You travel to the east, to a large expanse of water littered with small islands 
+and outcroppings of industrial waste and the skeletons of civilizations long forgotten.
+When you arrive at this water's edge, you search around for a little while,
+and then you find a small cave that you think will make a suitable home for you.
+
+Enter.
+east_2.txt

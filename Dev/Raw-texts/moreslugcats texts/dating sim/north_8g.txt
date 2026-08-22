@@ -1,0 +1,11 @@
+sm3
+rl2
+
+"Woah, wait, that's not necessary. I'm not here to eat you."
+"i'm used to dealing with red lizards, dont think u can pull anything on me, foul beast!"
+"No, no, I just wanted to introduce you to my friend.
+They're kind of shy, but they've been eyeing you from a distance."
+"uhh... okay??"
+
+"sure i guess??"
+north_8h.txt

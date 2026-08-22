@@ -1,0 +1,10 @@
+sm2
+none
+
+The rain is starting to come, and you spent so much time 
+talking that you forgot to eat. You lay down and accept your fate.
+
+RESTART
+start.txt
+
+FADE

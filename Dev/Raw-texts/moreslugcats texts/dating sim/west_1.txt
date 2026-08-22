@@ -1,0 +1,18 @@
+sm1
+none
+
+You travel to the west, towards a very overgrown section of the world.
+The world was once filled with many amazing things, and vegetation was one of them. 
+By traveling to the west, you are searching towards a place that has grown wild with plants and flowers. 
+As you make your way up a hill, you see a large hefty slugcat, who seems 
+to have no problem maintaining their diet in this challenging world. 
+As you watch, you notice that they seem to have the ability to generate 
+infinite objects by regurgitating them from their stomach.
+You approach carefully, unsure of whether to attack or to speak to them.
+
+Pick up a spear and throw it at them.
+west_2end.txt
+Pick up a rock and throw it at them.
+west_2.txt
+Greet them.
+west_2end2.txt

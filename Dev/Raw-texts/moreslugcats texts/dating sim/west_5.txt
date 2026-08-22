@@ -1,0 +1,14 @@
+sm7
+gm1
+
+"Gathering food and supplies for my colony."
+"u have a whole colony?"
+"Yeah, of course. We're not all loners like you."
+"how big we talking??"
+"Hm, I'd say about thirty or forty... give or take a few."
+"woaaahh!?!"
+
+"yo, hook me up."
+west_6end.txt
+"out of all of them, i want to be with u."
+west_6.txt

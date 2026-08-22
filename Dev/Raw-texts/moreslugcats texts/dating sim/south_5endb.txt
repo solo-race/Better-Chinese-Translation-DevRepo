@@ -1,0 +1,12 @@
+sm11
+at2
+
+She stares at you, and then begins laughing. You feel mentally crushed by her laugh.
+"You're pitiful," she says, "I'm going to end you."
+The mother slugcat suddenly pounces at you. It's quick and vicious.
+It's all over before you have time to react.
+
+RESTART
+start.txt
+
+FADE

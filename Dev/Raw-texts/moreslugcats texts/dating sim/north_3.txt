@@ -1,0 +1,10 @@
+sm10
+sp2b
+
+The rock hits their head, and they stare back at you with annoyance.
+"Can't you tell I'm trying to ignore you? I already had to suffer through being the protagonist 
+of the first More Slugcats dating sim, please don't drag me into this again."
+You don't really follow the conversation and only stare back in confusion. 
+
+"wat...?"
+north_3b.txt

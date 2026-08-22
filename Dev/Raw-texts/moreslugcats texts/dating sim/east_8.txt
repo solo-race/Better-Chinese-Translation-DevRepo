@@ -1,0 +1,13 @@
+sm2
+rv2
+
+"umm, i should probably-"
+"So, anyway, if you're looking to date me, you need to meet my mother first."
+"what"
+"Sorry, it's a requirement. Do you want to go see her now?"
+"i... well... uh..."
+
+"yea sure i guess..."
+east_9a.txt
+"no i really gotta be going now..."
+east_9b.txt

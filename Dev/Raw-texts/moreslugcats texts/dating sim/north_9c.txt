@@ -1,0 +1,13 @@
+superagony_anim_1.0
+sp3c
+
+Spearmaster struggles for a moment, before their body collapses in on itself.
+Into a single point of matter smaller than your eye can even perceive.
+But with it, all other surrounding matter begins to be absorbed into the
+point as well, in a runaway cascading collapse. You try to run, but you
+begin to be absorbed into the point almost as fast as you can try to react.
+Before you know it, your body is spaghettified, and your surroundings go black.
+Yet, somehow, you are still conscious.
+
+Observe your surroundings.
+north_9d.txt

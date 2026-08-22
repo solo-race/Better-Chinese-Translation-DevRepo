@@ -1,0 +1,10 @@
+sm2
+none
+
+Before you get a chance to say any more, they shoot their tongue towards the ceiling,
+and begin swinging away into the distance.
+What a strange specimen.
+Unfortunately, now you're just alone again.
+
+Stumble around in the darkness
+down_b5.txt

@@ -1,0 +1,16 @@
+sm2
+at2
+
+You remain silent and hidden among the tall blades of grass, slowly approaching the mother slugcat. 
+Your body is shaking nervously and your eye is twitching. 
+Your efforts of remaining unseen are in vain; the mother slugcat looks directly at you.
+You feel your heart pounding as she stares into your eyes. She lets out a loud hiss, 
+jumping backwards in an exaggerated fashion. She is scared of you, just as you are of her.
+It seems you share a tragic bond; both of you are lonely individuals.
+
+Keep moving towards her.
+south_4end.txt
+Blush at her.
+south_4.txt
+Hand her a rock.
+south_4end2.txt

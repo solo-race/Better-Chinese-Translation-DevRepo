@@ -1,0 +1,12 @@
+sm10
+sa2
+
+"ok, ok... hold up, before u give up on me..."
+The slugcat looks disinterested in whatever reasoning you might be about to give.
+"i got u a gift, look!!"
+You hand the slugcat your egg. Maybe this offering will help win them over.
+To your surprise, their expression immediately changes.
+"Where did you find that? You'd give this to me?"
+
+"i'll give it if u go out with me~"
+down_a8.txt

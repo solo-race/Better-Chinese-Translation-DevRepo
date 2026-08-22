@@ -1,0 +1,11 @@
+sm9
+sa1
+
+You reply to the slugcat in your best courting tone,
+hoping to impress upon it the seriousness of the situation you are in.
+However you have no reaction from the slugcat.
+Instead you receive a feeling of trepidation from it, as if it knows something you don't.
+This causes you to have second thoughts about making a move.
+
+"hey, u good?"
+down_a2.txt

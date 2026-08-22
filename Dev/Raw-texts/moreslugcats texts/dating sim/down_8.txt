@@ -1,0 +1,10 @@
+sm3
+none
+
+There is a quick flash of light accompanied by a loud pang that rings in your ears.
+The large creature suddenly goes limp and collapses to the ground.
+That's impossible.
+It should be invincible.
+
+You feel a presence.
+down_9.txt

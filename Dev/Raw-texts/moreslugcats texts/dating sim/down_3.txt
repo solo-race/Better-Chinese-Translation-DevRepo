@@ -1,0 +1,12 @@
+sm1
+none
+
+You look around, and you see that you are not alone.
+There are other creatures like yourself, scuttling around amongst the rocks.
+You hear a sound, like the chomping of jaws.
+You need to be careful, as it's very dark here, and predators could be hidden around any corner.
+
+Investigate the sound.
+down_4a.txt
+Look behind you.
+down_4b.txt

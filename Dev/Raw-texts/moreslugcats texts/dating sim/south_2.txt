@@ -1,0 +1,15 @@
+sm1
+at7
+
+Suddenly in the distance you see a crimson colored slugcat. 
+She is aggressive and seems to have the ability to create explosions 
+from her body, and propel herself with the shockwaves. 
+She is a mother slugcat, who is grieving the loss of her children.
+Regardless, she is your only hope of continuing your lineage.
+You must choose to approach her carefully, or else she'll flee due to 
+her being terrified and grief-stricken.
+
+Sneak up on her.
+south_3.txt
+Throw the egg at her.
+south_3end.txt

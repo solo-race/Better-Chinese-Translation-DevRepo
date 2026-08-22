@@ -1,0 +1,10 @@
+﻿0-156
+SPECEVENT : SitDown
+
+10 : 我知道他会理解我们都得到的机会！即使他仍然怀着与曾经一样的愤怒…… : 10
+
+SPECEVENT : RivEndingFade
+
+10：我们还是得试试。让我们纠正错误吧，小朋友。 : 10
+
+SPECEVENT : RivEndingCredits

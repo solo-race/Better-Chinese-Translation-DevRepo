@@ -1,0 +1,12 @@
+sm5
+sa3
+
+You turn to chase after the slugcat, but are interrupted as you hear the loud pang sound again.
+Or, at least you would have heard it if the neural synapses between
+your brain and your ears weren't shattered in the same instant. 
+Instead you hear nothing, for you have ascended.
+
+RESTART
+start.txt
+
+FADE

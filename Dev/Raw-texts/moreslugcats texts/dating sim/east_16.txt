@@ -1,0 +1,14 @@
+sm7
+bsm3m1
+
+"All we have at the moment are these marshmallows that Ruffles gathered last time they were out."
+You recoil at the food item.
+It's not one you're familiar with, and you're not sure what to make of it.
+"You can have some, we have plenty."
+
+Take the marshmallow
+east_17a.txt
+Offer your egg
+east_18.txt
+Eat the glowy food instead
+east_17b.txt

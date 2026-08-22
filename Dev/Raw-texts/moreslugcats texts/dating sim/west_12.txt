@@ -1,0 +1,13 @@
+sm15
+galaxy
+
+A cycle has been completed. 
+A new universe has been born.
+You have a lot of work to do.
+
+Accept your fate.
+END
+Retry.
+start.txt
+
+NA_03 - Wormpad

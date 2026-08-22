@@ -1,0 +1,10 @@
+sm5
+dll2
+
+It has little effect, and the creature quickly ensares you in its tentacles.
+You are dragged into its rotten maw where your body is dissolved away.
+
+RESTART
+start.txt
+
+FADE

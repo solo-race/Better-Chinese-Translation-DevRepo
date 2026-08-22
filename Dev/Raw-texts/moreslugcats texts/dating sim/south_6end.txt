@@ -1,0 +1,15 @@
+sm4
+at3
+
+She looks at you in confusion, as you explain yourself.
+"we could populate this world, make new children."
+She growls angrily, and begins to cry again.
+"I had children."
+She looks at you angrily, and spits in your face.
+"They can't be replaced."
+She disappears, leaving behind a dust cloud.
+"ohh??"
+You weep as she leaves, and then you pack your things and leave as well.
+
+Return to shelter.
+south_6endb.txt

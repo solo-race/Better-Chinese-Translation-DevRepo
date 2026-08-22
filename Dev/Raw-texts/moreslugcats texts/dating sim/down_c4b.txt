@@ -1,0 +1,14 @@
+sm5
+sa3
+
+The slugcat leisurely turns their head back towards you and launches their tongue at you again.
+It sticks firmly onto your torso and you feel a harsh tug as the tongue pulls back.
+It swiftly drags you across the ground, finally releasing its
+stick on you to fling you off the edge of a cliff. 
+You fall into the darkness below. As you lay, struggling to move your body, a black lizard
+slips out of a nearby pipe and makes quick work of you in your defenseless state.
+
+RESTART
+start.txt
+
+FADE

@@ -1,0 +1,17 @@
+sm5
+gm4
+
+You cautiously move forward, staying low on the ground. 
+You approach the large slugcat slowly, unsure of how they will react. 
+As you get close, you yell hello at them.
+The sudden sound of your voice startles them, and they instinctively roll up into a ball. 
+Then they begin to tumble down the hill towards you. Unsure of what to do, you duck and cover.
+This is highly ineffective, and they land directly on top of you. 
+You feel the air in your lungs forced out by the sheer force of their weight. 
+Your last thoughts are of how heavy they felt as you die from the collision. 
+Well done.
+
+RESTART
+start.txt
+
+FADE

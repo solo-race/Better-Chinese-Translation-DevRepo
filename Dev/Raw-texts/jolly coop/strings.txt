@@ -1,0 +1,95 @@
+﻿0JOLLY COOP|JOLLY CO-OP
+Difficulty|Difficulty
+Color Mode|Color Mode
+INFO_COLOR|There are three color options:<LINE><LINE>- Default: The original colors of each slugcat.<LINE>- Automatic: Let the game select distinct colors for each slugcat.<LINE>- Custom: Adjust the colors with sliders.
+Input Help|Input Help
+Spears hit|Spears hit
+Players: <num_p>|Players: <num_p>
+Friendly lizards|Friendly lizards
+Player <p_n>|Player <p_n>
+Camera Input|Camera Input
+Local co-op!|Local co-op!
+ADJUST_COLOR|Adjust the color mode
+COLOR_BUTTON|Color
+REFER_MANUAL|Check the manual for more information
+INTRODUCTION|INTRODUCTION
+DIFFICULTIES|DIFFICULTIES
+PIGGYBACKING|PIGGYBACKING
+INFO_DIFF|There are three difficulties available in Jolly Co-op:<LINE><LINE>- On easy, only one player needs to reach a shelter.<LINE>- On normal, all players (dead or alive) need to reach the shelter. Make sure to carry your fallen teammates!<LINE>- On hard, every single player needs to be alive to complete the cycle.<LINE><LINE>Remember that to sleep, all alive players need to be in the same shelter, regardless of difficulty!
+INFO_CAMERA|In Jolly Co-op, the camera is shared by all players. During gameplay, in the bottom right an arrow shows who the camera is currently following.<LINE>To re-target the camera to your player, tap the MAP button.<LINE><LINE>The Camera Input option configures how fast you need to tap, and is mainly an accessibility option!
+Spears miss|Spears miss
+No stealing|No stealing
+INFO_DIFF_DESCRIPTION|Click for more information about the difficulty options
+description_spears_on|Spears you throw will miss other players
+MANUAL_INTRODUCTION_1|Jolly Co-op allows you to play the story campaign and other gamemodes with your friends! Select your favourite slugcat and experience the journey with up to 4 players.
+MANUAL_PIGGYBACKING_1|In Jolly Co-op holding the <PICK UP> button near a player who is crouched will let you carry them on your back. This can also be done on players who have been incapacitated.
+MANUAL_PIGGYBACKING_2|You can throw players on your back to reach higher ledges or items. Players being carried can also jump off at any time.
+INFO_CAMERA_DESCRIPTION|Click for more information about the camera options
+INFO_COLOR_DESCRIPTION|Click for more information about the color options
+DIFFICULTY INFORMATION|DIFFICULTY INFORMATION
+description_spears_off|Spears you throw will hit other players
+CAMERA INFORMATION|CAMERA INFORMATION
+description_pup_on|Player <p_n> will be a pup
+description_hud_on|Hiding player names and other indicators
+MANUAL_SURVIVING_1|To successfully hibernate, all living players must be in the same shelter, regardless of the difficulty! This is also true for other events such as crossing gates.
+MANUAL_SELECTING_1|You can mix up and combine which slugcats you play as! First, select a campaign as normal, which will determine the world and story (things like food needed, creature spawns, etc.).
+MANUAL_SELECTING_2|Then, bring down the Jolly menu and select the appearance and abilities of each individual player! You can also choose to play as a pup.
+COLOR INFORMATION|COLOR INFORMATION
+Vanilla shortcuts|Vanilla shortcuts
+Friendly stealing|Friendly stealing
+ADJUST_DIFFICULTY|Adjust the difficulty
+SURVIVING A CYCLE|SURVIVING A CYCLE
+MANUAL_POINTING_1|You can communicate with other players and Scavengers by pointing!
+MANUAL_POINTING_2|To point, double-tap and hold the <MAP> button. While holding the <MAP> button, move in a direction to control where you are pointing.
+MANUAL_POINTING_3|Pointing at a creature or item will highlight it. Scavengers will look at what you are pointing at too!
+Adjust the number of players|Adjust the number of players
+description_camera_toggle_on|When you are followed by the camera, requesting it again will send it to the next player
+CLOSE|CLOSE
+RESET|Reset
+PLAYER_CLASS_INSTRUCTION_MAIN|To change the Player 1 character, use a different story campaign.
+description_camera_toggle_off|Requesting the camera when already being followed by it will do nothing
+description_smart_shorcuts_on|(Recommended) You will wait for other players inside shortcuts when changing rooms
+PLAYER_CLASS_INSTRUCTION|Select the appearance and abilities for Player <p_n>.
+PLAYER_CUSTOM_NAME_DESCRIPTION|Click to change the name of Player <p_n>
+description_smart_shorcuts_off|Shortcuts will behave normally
+description_friendlylizards_on|Tamed lizards will be friendly to other players
+EASY|EASY
+HARD|HARD
+FAST|FAST
+SLOW|SLOW
+AUTO|AUTO
+SHOW|SHOW
+Body|Body
+Eyes|Eyes
+NORMAL|NORMAL
+CUSTOM|CUSTOM
+HUD on|HUD on
+CAMERA|CAMERA
+DEFAULT|DEFAULT
+HUD off|HUD off
+description_pup_off|Player <p_n> will be normal age
+description_hud_off|Displaying player names and other indicators
+COLOR CONFIGURATION|Color configuration
+JOLLY_MANUAL_BUTTON|Manual
+SELECTING A SLUGCAT|SELECTING A SLUGCAT
+MANUAL_DIFFICULTY_1|There are three difficulties available in Jolly Co-op:
+MANUAL_DIFFICULTY_2|- Easy: only one player needs to reach a shelter.
+MANUAL_DIFFICULTY_3|- Normal: all players (dead or alive) need to reach the shelter. Make sure to carry your fallen teammates!
+MANUAL_DIFFICULTY_4|- Hard: every single player needs to be alive to complete the cycle.
+description_friendlylizards_off|Tamed lizards will attack unknown players
+description_friendlystealing_on|Players can steal objects from the hands of other players
+description_friendlystealing_off|Disables player-to-player stealing
+Camera cycles|Camera cycles
+ADJUST_CAMERA|Adjust the camera accessibility
+Camera doesn't cycle|Camera doesn't cycle
+Smart shortcuts|Smart shortcuts
+Vanilla lizards|Vanilla lizards
+MANUAL_CAMERA_1|In Jolly Co-op the game camera is shared between all players, following a specific player at any given time. Tap the <MAP> button to re-target the camera to you.
+MANUAL_CAMERA_2|You can configure how quickly the <MAP> button must be tapped in the Jolly Co-op menu.
+MANUAL_CAMERA_3|If the camera cycling option is enabled in the Jolly menu, tapping the <MAP> button while the camera is already following you will instead target the next player.
+MANUAL_CAMERA_4|The indicator in the bottom right will display an arrow on the player who the camera is currently following.
+MANUAL_CAMERA_5|At certain points in a campaign the camera may be locked to a specific player; this is indicated by a special icon.
+HUE|Hue
+SAT|Sat
+LIT|Lit
+POINTING|POINTING

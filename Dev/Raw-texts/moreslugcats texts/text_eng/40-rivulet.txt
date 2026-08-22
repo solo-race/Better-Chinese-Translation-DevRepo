@@ -1,0 +1,22 @@
+﻿0-40-rivulet
+The data on this one repeats itself many times, with a number of redundancy checks in place.<LINE>This extent of integrity checking is rarely seen, except when pearls have to be stored in<LINE>highly contaminated environments where data corruption is likely.
+
+The surface of this pearl is pristine, but the internal lattice is fractured beyond repair.<LINE>Something must have gone terribly wrong in the process of writing the data onto this.
+
+A common prayer mantra repeated 7110 times. Each repetition has some slight random variations, which seem to have been written later.
+
+It is a stored equipment manifest, showing rapidly deteriorating conditions over time. I suppose<LINE>any equipment manifest you will find out there will look like this.
+
+Two... intertwined number series? I don't quite understand the utility of this. It might be a key<LINE>for a cipher processor, customized for some other data which is impossible to infer from this.
+
+I don't understand this one. It is mostly blank, except for a small section at the start which<LINE>appears to have been unsuccessfully written to hundreds of times. Perhaps by faulty machinery?
+
+Incredible, this is seemingly a complete backup of an iterator's non-volatile core memory, transferred<LINE>via the General Systems Bus. I don't recall such a thing ever being attempted to be stored in a pearl.<LINE>It's not even a compatible data format without substantial conversions.
+
+This contains partial data that seems abruptly truncated. Whatever machinery was used to write<LINE>this pearl must have been interrupted or suspended in the middle of its operation.
+
+Without the process surrounding this data there isn't much I can tell you. It might have something to do with Void Fluid simulation...
+
+This one is completely blank. Actually, blanker than blank, it must have been deliberately<LINE>overwritten with repeating negative versions of itself for thousands of iterations.
+
+Most of the data on this one is corrupted, but not through age. From the small bit that I<LINE>can decipher, it appears that it may be a backup of some old conversation logs.

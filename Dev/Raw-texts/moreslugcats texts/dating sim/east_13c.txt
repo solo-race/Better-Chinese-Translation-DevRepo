@@ -1,0 +1,12 @@
+sm3
+none
+
+You hop through the tunnel and crawl as fast as you can.
+This is the worst day of your life.
+How could you have made such a fool of yourself?
+You run and run, and don't ever look back.
+
+RESTART
+start.txt
+
+FADE

@@ -1,0 +1,10 @@
+sm9
+sp4
+
+You and spearmaster climb to the roof of the tower in search of food. 
+You overlook the canopies of structures out in the distance. 
+The view is industrial, but oddly beautiful. 
+You lean your head against spearmaster's shoulder.
+
+"this is nice. <3"
+north_8b.txt

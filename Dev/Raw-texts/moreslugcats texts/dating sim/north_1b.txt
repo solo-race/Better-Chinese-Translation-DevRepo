@@ -1,0 +1,12 @@
+sm5
+sp2
+
+This slugcat could be your hunting buddy! You go to grab a spear off the ground, 
+but as soon as your hand touches it, the slugcat finally reacts to your presence. 
+They unload their arsenal on you, raining down spears at lightning speed. 
+You can't dodge them all, and quickly succumb to your injuries.
+
+RESTART
+start.txt
+
+FADE

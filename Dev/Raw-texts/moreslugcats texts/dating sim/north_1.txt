@@ -1,0 +1,15 @@
+sm1
+none
+
+You trek to the north, towards a land of towering structures that pierce the heavens. 
+You traverse the rocky, hilly fields, as you avoid the large predators that roam this area. 
+It is here where you hope to find a mate, if they even exist in this strange place...
+You spot a strange slugcat climbing one of the towers, unlike any you've seen before. 
+It has no mouth with which to eat or speak with, and is able to generate spiky bone-like protrusions from its tail. 
+It does not react when it notices you, giving you a good view of it. Fascinating.
+Do you approach it, to see if it is your compatible either as a mate or a food resource?
+
+No.
+north_1a.txt
+Yes.
+north_2.txt

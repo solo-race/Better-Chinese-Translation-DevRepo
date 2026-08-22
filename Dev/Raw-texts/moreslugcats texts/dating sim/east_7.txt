@@ -1,0 +1,12 @@
+sm2
+rv1
+
+You still do not know what to make of this slugcat.
+Its body is blue and slimy and you do not feel particularly well about it.
+You would prefer to have a less hyperactive friend.
+You notice that it's watching you very carefully, as if it is waiting for a chance to pounce on you.
+You cannot help but feel that it is a little too friendly and you are not quite sure why.
+Perhaps it is just the effect of the creature's natural exuberance and you are over-thinking it.
+
+Break the silence.
+east_8.txt

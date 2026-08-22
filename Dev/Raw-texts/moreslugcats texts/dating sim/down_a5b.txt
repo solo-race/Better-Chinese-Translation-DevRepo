@@ -1,0 +1,13 @@
+sm5
+none
+
+You begin the trip through the depths, deep into the subterranean caverns, nearing the bottom of the world.
+You descend further and further down. However, as you reach one room before the void sea, 
+an invisible void worm clips through the wall and shatters every bone in your body. 
+What the hell.
+I thought that glitch was fixed a while ago...
+
+RESTART
+start.txt
+
+FADE

@@ -1,0 +1,8 @@
+agony_001
+sp5
+
+A loud noise fires from the sky and a large harpoon immediately skewers spearmaster's chest cavity. 
+Their corpse is hoisted up into the sky by a string.
+
+"WHAT?!"
+north_8c.txt

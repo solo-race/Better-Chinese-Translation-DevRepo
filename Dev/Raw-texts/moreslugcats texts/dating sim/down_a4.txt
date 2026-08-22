@@ -1,0 +1,16 @@
+sm9b
+sa2b
+
+"Oh."
+The slugcat pauses for a few seconds, looking disappointed in you.
+"In that case, no. I will not go out with you."
+"why?!!"
+"I'm not interested in relationships. I have higher priorities."
+The slugcat looks away, as if trying to find a way to exit this interaction as soon as possible.
+
+Give up.
+down_a5.txt
+Don't let up.
+down_a6.txt
+Offer a gift.
+down_a7.txt

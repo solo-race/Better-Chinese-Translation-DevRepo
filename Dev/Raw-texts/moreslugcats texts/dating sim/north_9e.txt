@@ -1,0 +1,12 @@
+sm15
+sil
+
+"Shh, there is much work to be done, and I could use a helper. This is just the beginning."
+You shrug. There's not much else to do in this void, and you don't feel like
+wasting your brain cells trying to reason around a dating sim story arc.
+You get to work.
+
+Accept your fate.
+END
+Retry.
+start.txt

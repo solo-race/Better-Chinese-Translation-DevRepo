@@ -1,0 +1,11 @@
+sm4
+sp2b
+
+"Hmm? you need food too?"
+"no i mean... u can siphon my nutrients... with ur spears..."
+"WHAT??"
+"it's ok~"
+"You want me to stab you? You'll die."
+
+"please"
+north_10b.txt

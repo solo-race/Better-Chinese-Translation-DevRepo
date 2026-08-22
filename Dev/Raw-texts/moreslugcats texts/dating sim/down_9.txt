@@ -1,0 +1,17 @@
+sm3
+sa3
+
+"Hello. Was that guy bothering you?"
+A green colored slugcat floats down from the sky in front of you.
+It has an aura of tranquility around it, yet some part of your mind
+feels some instinctive primal fear from its very being.
+The slugcat has an extremely long tongue, quite a bit different
+from any other slugcat you've encountered before. 
+In any case, this is the first of your species you've encountered here and could be an eligible mate.
+
+"thx, u r my hero"
+down_a1.txt
+"ur looking fine"
+down_b1.txt
+"wow, pls lick me"
+down_c1.txt

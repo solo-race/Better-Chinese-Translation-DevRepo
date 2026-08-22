@@ -1,0 +1,19 @@
+sm1
+none
+
+You have been through hell and back, but now, it's time to atone for your sins in your past cycles. 
+You must find a mate, or die. 
+Which direction to you head?
+
+North
+north_1.txt
+East
+east_1.txt
+South
+south_1.txt
+West
+west_1.txt
+Down
+down_1.txt
+
+RW_42 - Kayava

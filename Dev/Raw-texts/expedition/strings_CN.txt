@@ -1,0 +1,340 @@
+﻿0Moth Grubs|蛾螬
+Sand Grubs|沙螬
+Sand Worms|沙虫
+Sky Whales|天空鲸
+Millipedes|马陆
+EXPEDITION|探险
+MILESTONES|里程碑
+Salamander|蝾螈
+Scavengers|拾荒者
+Centiwings|飞蜈蚣
+Tube Worms|管虫
+Leviathans|利维坦
+Inspectors|监察者
+Back Spear|背后长矛
+Joke Rifle|玩笑步枪
+AVAILABLE:|可用：
+Puff Balls|真菌孢子
+CHALLENGES|挑战：
+BEST TIME:|最佳时间：
+Ripple Spiders|涟漪蜘蛛
+Indigo Lizards|靛蓝蜥蜴
+Grapple Snakes|扭蛇
+Yellow Lizards|黄蜥蜴
+Red Centipedes|红蜈蚣
+Miros Vultures|钢秃鹫
+Mother Spiders|蛛母
+Slugcat Select|蛞蝓猫选择
+colored pearls|彩色珍珠
+Explosive Jump|爆炸跳跃
+Scavenger Bomb|拾荒者炸弹
+Electric Spear|电能长矛
+Neuron Gifting|给予神经元
+Pearl Delivery|珍珠送达
+Pearl Hoarding|珍珠贮藏
+Vista Visiting|瞭望点到访
+Scavenger Hunt|拾荒者狩猎
+Challenge list|挑战列表
+Total: <total>|全部：<total>
+SLUGCAT SELECT|蛞蝓猫选择
+NEW BEST TIME:|新最佳时间：
+Peach Lizards|桃蜥蜴
+Rot Behemoths|腐化巨兽
+-PROGRESSION-|-进度-
+-UNLOCKABLES-|-可解锁-
+Apex Predator|顶端掠食者
+Green Lizards|绿蜥蜴
+White Lizards|白蜥蜴
+Black Lizards|黑蜥蜴
+White Cicadas|白蝉
+Black Cicadas|黑蝉
+King Vultures|魔王鹫
+Large Spiders|巨型狼蛛
+Stowaway Bugs|偷渡者
+common pearls|普通珍珠
+Item Crafting|物品制造
+Vulture Masks|秃鹫面具
+Echo Sighting|回响
+Overall Score|总分数
+Spear Pinning|长矛穿刺
+Guiding Light|指引之光
+Normal: <num>|普通：<num>
+Hidden: <num>|隐藏：<num>
+Rattlers|震骨者
+-CUSTOM-|-自定义-
+LEVEL UP|升级
+- PAGE -|-页-
+DESELECT|取消选定
+Slugcats|蛞蝓猫
+Vultures|秃鹫
+Egg Bugs|蛋虫
+Dropwigs|落网虫
+Batflies|蝠蝇
+Firebugs|火虫
+DEATHS :|死亡：
+BURDENS:|负担：
+a neuron|一个神经元
+MISSIONS|使命
+CONTROLS|控制方式
+Barnacles|藤壶
+Big Moths|大蛾
+Box Worms|箱虫
+-FILTERS-|-过滤器-
+Food Tour|食物旅行
+MILESTONE|里程碑
+Rain Deer|雨鹿
+Aquapedes|水蜈蚣
+Slow Time|缓慢时间
+Fly Lures|蝠蝇饵
+Jellyfish|水母
+Mushrooms|蘑菇
+Missions:|使命：
+Drill Crabs|钻蟹
+Small Moths|小蛾
+Tardigrades|水熊虫
+Red Lizards|红蜥蜴
+Pole Mimics|拟态草
+Miros Birds|钢鸟
+Eel Lizards|鳗蜥蜴
+Progression|进度
+Neuron Glow|神经元发光
+Flare Bombs|闪光弹
+Cycle Score|雨循环分数
+UNLOCKABLES|可解锁
+EXPEDITIONS|探险
+Fire Sprites|火精灵
+-EXPEDITION-|-探险-
+-CHALLENGES-|-挑战-
+-MILESTONES-|-里程碑-
+Now Playing:|当前游玩：
+FINAL SCORE:|最终分数：
+Five Pebbles|五卵石
+Pink Lizards|粉蜥蜴
+Blue Lizards|蓝蜥蜴
+Cyan Lizards|青蜥蜴
+Monster Kelp|红树
+Lantern Mice|光鼠
+LEVEL <next>|等级<next>
+Vulture Mask|秃鹫面具
+Karma Flower|业力花
+High Agility|高敏捷性
+Perk: <perk>|增益：<perk>
+Birdwatching|鸟瞰
+REQUIREMENTS|要求
+Scavenger Templars|拾荒者圣堂武士
+Strawberry Lizards|草莓蜥蜴
+Reach Level: <num>|已到达等级：<num>
+Firecracker Plants|鞭炮草
+Scavenger Lanterns|拾荒者灯笼
+Expedition-Players|玩家：<num_p>
+UNLOCKING SLUGCATS|正在解锁蛞蝓猫
+Scavenger Disciples|拾荒者门徒
+CHOOSE YOUR SLUGCAT|选择你的蛞蝓猫
+NEW<LINE>EXPEDITION|新<LINE>探险
+Spear Dual-Wielding|双持长矛
+Loaches|泥鳅
+Anglers|琵琶鱼
+BURDENS|负担
+Jetfish|喷气鱼
+JUKEBOX|音乐盒
+Jukebox|音乐盒
+ABANDON|放弃
+CYCLE :|雨循环：
+KARMA :|业力：
+POINTS:|分数：
+BLINDED|失明
+PURSUED|被追踪
+neurons|神经元
+Passage|成就
+Mission|使命
+GENERAL|通用
+Quests:|任务：
+REWARDS|奖励
+DISMISS|解散
+Blizzard Lizards|暴雪蜥蜴
+Basilisk Lizards|蛇怪蜥蜴
+MISSION SELECTED|已选择任务
+Small Centipedes|小蜈蚣
+Large Centipedes|巨型蜈蚣
+Terror Long Legs|棕长腿菌
+Elite Scavengers|精英拾荒者
+Challenge Select|挑战选择
+Singularity Bomb|奇点炸弹
+Points: <points>|分数：<points>
+Burden: <burden>|负担：<burden>
+Creature Hunting|生物狩猎
+CHALLENGE FILTER|挑战过滤器
+GAMEPLAY CHANGES|玩法变更
+CHALLENGE SELECT|挑战选择
+Rats|老鼠
+NEW!|新！
+Yeek|呼号者
+EXIT|退出
+EASY|简单
+HARD|困难
+BACK|返回
+NEXT|下一个
+Frogs|青蛙
+KILLS|消灭
+CLOSE|关闭
+LEVEL|等级
+EMPTY|空
+PERKS|增益
+You are missing one or more of the mission's requirements|你未满足一项或多项任务要求
+Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.|你可以添加负担使探险增加难度。作为回报，你的最终分数会提高倍数，从而增加可能获得的分数。
+Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.|你可以通过选择新挑战来重新发起挑战。新挑战的难度可以通过拖动难度滑块来调整，难度越高的挑战奖励的分数也越高。
+Start the expedition with a charged Electric Spear. The spear is extremely useful for dealing high amounts of damage and stunning creatures. The spear can be recharged by impaling centipedes.|用电能长矛开始探险。这种长矛非常善于造成大量伤害和击晕生物，可以通过刺穿蜈蚣来充电。
+Gives The Artificer's explosive double-jump ability to other characters, activated by pressing JUMP and PICK UP whilst in the air. Very useful for traversal and escaping dangerous situations.|将工匠的爆炸性二连跳能力赋予其他角色，通过在空中按“跳跃”和“拾取”键激活。对于穿越地形和逃离危险情况非常有用。
+Custom|自定义
+BONUS:|加成：
+HIDDEN|隐藏
+LOCKED|锁定
+Track:|曲目：
+Snails|蜗牛
+TIME :|时间：
+DOOMED|不幸
+HUNTED|被狩猎
+MUSIC:|音乐：
+QUESTS|任务
+CONFIGURE<LINE>PERKS & BURDENS|配置<LINE>增益和负担
+Visit the <echo_location> Echo|拜访<echo_location>回响
+Total Hidden Challenges: <num>|隐藏挑战：<num>
+Total Wins as <slugcat>: <num>|<slugcat>总获胜场次：<num>
+Total <type> Challenges: <num>|全部<type>挑战：<num>
+Points to Next Level: <points>|达到下一个等级所需分数：<points>
+START NEW<LINE>EXPEDITION|开始新<LINE>探险
+CHALLENGE DIFFICULTY|挑战难度
+Completed Challenges|已完成挑战
+Explosion Resistance|爆炸抵抗
+Challenges Completed:|已完成挑战：
+RETRY<LINE>EXPEDITION|重新尝试<LINE>探险
+- D E M O   M O D E -|-测试模式-
+CONTINUE<LINE>MISSION|继续<LINE>使命
+Perk Capacity: +<num>|增益量：+<num>
+COMMENCE<LINE>MISSION|开始<LINE>使命
+Store <amount> <target_item> in the same shelter|在同一个庇护所存放<amount>个<target_item>
+Successfully hibernate to finish this expedition|成功休眠以完成本次探险
+Looks To The Moon|望月
+Brother Long Legs|黄长腿菌
+Large Noodleflies|巨型面条蝇
+Scavenger Lantern|拾荒者灯笼
+Challenges: <num>|挑战：<num>
+Total Wins: <num>|总获胜场次：<num>
+Music: <songName>|音乐：<songName>
+You feel the presence of a vista . . .|你感觉到了瞭望点的存在……
+<region> pearl delivered to <iterator>|<region>珍珠送至<iterator>
+Reach the vista point in <region_name>|到达<region_name>的瞭望点
+E X P E D I T I O N    C O M P L E T E|探险完成
+<Unlocked> of <Max> Tracks Unlocked|<Unlocked>/<Max>曲目已解锁
+Reach these milestones across multiple Expeditions:|通过多次探险达成这些里程碑：
+Toggle which challenges can appear when randomising|切换随机化时可能出现的挑战
+The Expedition will end upon entering the Depths...|探险将在进入深渊时结束……
+Complete an Expedition with the following requirements:|在遵循以下需求的情况下完成一次探险：
+Kill <target_creature> [<current_kills>/<target_kills>]|消灭<target_creature>[<current_kills>/<target_kills>]
+This quest has been completed|该任务已被完成
+<challenge> Challenges: <num>|<challenge>挑战：<num>
+Total Points Earned: <points>|全部已获得分数：<points>
+Spitter Spiders|烈焰狼蛛
+Daddy Long Legs|蓝长腿菌
+Caramel Lizards|焦糖蜥蜴
+Large Jellyfish|巨型水母
+LEVEL <current>|等级<current>
+POINTS: <score>|分数：<score>
+Enable Passages|启用通行证
+Slugcat: <slug>|蛞蝓猫：<slug>
+Scavenger Bombs|拾荒者炸弹
+Item Collecting|物品收集
+Nature's Friend|大自然的朋友
+Hunter Gatherer|猎手收集者
+Change of Heart|改变心意
+With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|没有什么特别技能可以炫耀的求生者踏上探险之路，<LINE>就是为了考验自己的决心
+Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|同情众生、顺应自然的僧侣踏上旅程<LINE>是为了在世界上找到属于自己的归宿
+Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|打开挑战过滤器菜单可以使你切换重新发起挑战时可以出现的挑战类型。
+Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger|使用长矛游刃有余的猎手将再次踏上<LINE>前往危险世界的旅程。
+A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal|一个勇敢的探险家，渴望着下一次冒险，<LINE>也有可能渴望着下一顿饭
+An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|身为爆炸斗士和战斗专家，工匠将再次<LINE>踏上未知的旅程
+A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|作为一个被迫为生存而战的长矛专家，<LINE>其探险之路一定危机四伏
+Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|身手敏捷、水性出众的溪流在必要时，<LINE>会朝着自己的目标加速前进
+Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|用拾荒者炸弹开始探险，它是与战斗相关挑战的潜在优势。
+A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|内心平和的圣徒忍受着严寒，寻找着<LINE>自己的目的
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|本次雨循环消灭生物获得<score_target>点分数[<current_score>/<score_target>]
+Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|用增强业力开始探险。死亡处会生成一朵业力之花
+CONTINUE<LINE>EXPEDITION|继续<LINE>探险
+PERKS: <current>/<limit>|增益：<current>/<limit>
+You are being pursued...|你正在被追踪……
+Hidden Challenges: <num>|隐藏挑战：<num>
+Current Points: <points>|当前分数：<points>
+Enable a range of perks to aid you in your expedition|获得一系列增益效果来帮助你进行探险
+Reach milestones and complete expeditions with certain restrictions to earn rewards|在一定的限制条件下达到里程碑并完成探险以获得奖励
+The required character has an on-going expedition, finish or abandon it to continue|所需角色有正在进行的探险，完成或放弃探险以继续
+Earn <achievement_name> passage|获得<achievement_name>成就
+Plays unlocked tracks at random|随机播放已解锁曲目
+Earn <score_target> points from creature kills [<current_score>/<score_target>]|消灭生物获得<score_target>点分数[<current_score>/<score_target>]
+Neurons delivered to Looks to the Moon <progress>|已送给望月的神经元<progress>
+The Expedition will end upon taking the plunge...|探险将在跃入虚空海时结束……
+Store <amount> <target_pearl> in a shelter in <region_name>|将<amount>个<target_pearl>储存在<region_name>的庇护所中
+Pin <pin_amount> creatures to walls or floors [<current_pin>/<pin_amount>]|将<pin_amount>个生物扎到墙上或地板上[<current_pin>/<pin_amount>]
+The pursuer retreats...|追踪者撤退了……
+Mission: <mission_name>|使命：<mission_name>
+Total Points:  <points>|总分数：<points>
+EXPEDITION-INTRODUCTION|简介
+Total Challenges Completed: <num>|全部已完成挑战：<num>
+<num> Quests Completed|已完成<num>个任务
+Current Level: <level>|当前等级：<level>
+Recover all karma and fast travel to any discovered shelter, consumes an earned passage|恢复所有业力并快速前往任何已发现的庇护所，消耗一个已获得的通行证
+Missing Requirements:      <req>|遗漏的要求：      <req>
+Slugcat Unlocked: <slugcat>|已解锁蛞蝓猫：<slugcat>
+Q U E S T   C O M P L E T E|任务完成
+Warning: Hidden challenges will become normal challenges when retrying|警告：重试后，隐藏挑战将变为普通挑战
+Enables a persistent glow around the player|使玩家周围持续发光
+Start the expedition with an Electric Spear|用电能长矛开始探险
+Start the expedition with a Scavenger Bomb|用拾荒者炸弹开始探险
+Start the expedition with a Scavenger Lantern|用拾荒者灯笼开始探险
+Slow time at will by holding PICK UP and pressing MAP, also temporarily increases movement abilities|通过按住“拾取”和按“地图”随意减慢时间，这也会暂时提高移动能力
+Enables the use of passages during expeditions which can be earned by completing challenges|允许在探险期间使用通行证，通行证次数可以通过完成挑战获得
+Allows the player to stow an additional spear on their back by holding PICK UP|允许玩家通过按住“拾取”键将额外的长矛放在背上
+Start the expedition with a Vulture Mask|用秃鹫面具开始探险
+Start the expedition with the Joke Rifle|用玩笑步枪开始探险
+Allows the player to wield a spear in each hand|允许玩家两只手各持有一支长矛
+Makes the player highly resistant to explosions|使玩家对爆炸有很强的抵抗力
+Start the expedition with a Singularity Bomb|用奇点炸弹开始探险
+Allows the player to jump a second time mid-air by pressing JUMP and PICKUP|按下“跳跃”和“拾取”键可以使玩家在空中跳跃第二次
+Apply Burdens to increase both difficulty and the amount of points received|施加负担来同时提高难度和获得的分数
+Craft different combinations of items together by holding UP and PICK UP|通过按住“上方向键”和“拾取”键来组合不同的物品
+Whilst undertaking an expedition, certain gameplay elements are changed:|在进行探险时，某些游戏元素会发生变化：
+Increases the players movement abilities, granting high speed and jump height|提高玩家的移动能力，给予较高的移速和跳跃高度
+Expedition is a challenge oriented gamemode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.|探险是一种以挑战为导向的游戏模式，具有永久死亡和进度。选择一个角色并通过选择要接受的挑战来准备一次探险。
+A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.|一次成功的探险将根据所完成的事情给予分数和不同的奖励，这些奖励包括可以在未来的游戏中使用的新增益，以有趣的方式增加难度的负担，以及可以在音乐盒菜单中播放的音乐曲目。
+Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear and discovered lore is not saved in the Collection menu.|玩家在随机选择的庇护所开始探险。<LINE>所有角色开始时都有两层业力，最大业力限制为五层。<LINE>求生者成就默认完成，其他成就不受此限制。<LINE>通行证默认禁用，而不会被增益解锁。<LINE>回响不会在第一个雨循环中出现。<LINE>探险中的猎手没有雨循环限制。<LINE>不会出现可收集的标记。
+Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.|选择一只在探险期间使用的蛞蝓猫。探险将与他们的剧情发生在同一个世界，但故事元素被移除。如果启用了惬意合作模式，你还可以随时配置额外玩家的数量。
+Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten|僧侣和求生者 - 默认解锁<LINE>猎手 - 通关僧侣或求生者剧情后解锁<LINE>其他 - 通关对应角色剧情后解锁
+The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.|挑战选择页面是你打造探险的地方。你可以在其中调整你要完成的挑战的数量和类型，并查看完成探险后将获得的分数。
+Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.|切换是否隐藏选定的挑战。隐藏挑战是完全随机的，只有在完成所有常规挑战后才会显示它们的要求。隐藏挑战的分数会翻倍。探险必须至少有一个非隐藏的挑战。
+Controls how many challenges the expedition will have, up to a maximum of five. A point bonus is applied for multiple challenges.|控制探险的挑战数量，最多五个。分数奖励适用于多项挑战。
+Randomizes all challenges at once. Can only be used if no challenge filters are applied.|一次性随机化所有挑战。只有在未应用挑战过滤器时才能使用。
+Indicates your progress to the next level and how much the current expedition will award. If the bar blinks rapidly then completing the expedition will grant a level. The number at the end of the bar displays how many levels will granted.|指示你进入下一等级的进度以及当前探险将奖励多少。如果进度条快速闪烁，则完成探险将提高一个等级。进度条末尾的数字会显示将要提高的等级数。
+Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.|完成任务以解锁额外内容，例如增益、负担和音乐曲目。<LINE><LINE>“探险”任务是通过进行满足特定要求的探险来完成的，而“里程碑”任务是在多次探险达到特定目标后完成的。
+Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!|高亮显示一个任务以查看其所有要求和奖励。尝试组织一次可同时完成多项任务的探险吧！
+Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.|给予其他角色和猎手一样将长矛放在背上的能力。对于参与战斗挑战的玩家来说是一个有用的增益。
+Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. These cannot be removed, however additional Perks and Burdens can be enabled if desired.|使命是手工打造且具有特定挑战和起始位置的探险。某些使命可能还需要你使用特定的增益或负担。这些无法移除，如果有需要，也可以启用额外的增益和负担。
+In order to select a mission, you must first unlock all of its requirements. Some quests will require that a mission is completed to grant its rewards. You can also repeat a mission at anytime to strive for the fastest time!|若要选择一项使命，你必须先解锁它的所有要求。有些任务需要完成使命才能获得奖励。你也可以随时重复一项使命，争取以最快的时间完成它！
+The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|音乐盒菜单可让您聆听《雨世界》和《雨世界：倾盆大雨》中你最喜爱的曲目。所有音乐曲目都可以作为完成任务的奖励来解锁。
+Repeats the currently selected track|重复当前已选曲目
+Set a track to play as the menu theme|将一个曲目设为菜单主题曲
+Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.|增益通过任务解锁，它可以应用到探险中以弥补劣势，你可从增益中获得新的工具和能力，使完成挑战变得更容易。请参阅下文了解可解锁增益的完整列表。
+Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.|在玩家周围持续发光的情况下开始探险，通常要消耗一个神经元来得到此效果。在黑暗环境中或使用“失明”负担时很有用。
+Start the expedition with a Scavenger Lantern, a portable light source -- and for some slugcats -- a source of vital warmth.|用拾荒者灯笼开始探险，一个便携式光源（对一些蛞蝓猫来说是重要的温暖来源）。
+Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.|通过按住“拾取”和按“地图”可以随意减慢时间。技能冷却时间的视觉指示器会出现在雨循环计时器的上方。
+re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.|重新允许使用通行证前往之前访问过的庇护所，并在此过程中恢复所有业力。通行证次数不会通过成就给予，而是每完成一个挑战就会奖励一次通行证次数。
+Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.|用秃鹫面具开始探险，帮助让敌对生物远离你，或使它们成为逃窜的目标。
+Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death. Will be permanently lost if not recovered.|以增强业力开始探险。增强业力是在最低业力水平上防止永久死亡的唯一方法。若雨循环失败，死亡处会出现一朵业力花，若不找回业力花，它将永久消失。
+Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.|将矛大师的双持能力赋予其他角色。能够每只手携带一根长矛大大提高了你造成伤害的速度。
+Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures, just make sure not to get caught in the blast.|用奇点炸弹开始探险，这是一种毁灭性的武器，甚至可以消灭最难处理的生物。一定要确保自己不要被卷入爆炸中。
+Withstand explosive encounters by borrowing The Artificer's explosion immunity. Useful if unfavored by the Scavengers, or for surviving situations where an explosion may be a last resort.|通过借用工匠的爆炸免疫来抵御遇到的爆炸情况。在拾荒者不喜欢你，或者在爆炸可能是最后生存手段的情况下很有用。
+Grants The Gourmand's crafting ability to other characters. Experiment with objects you find by combining them into new ones to help in different situations. Activate by holding UP and PICK UP with an item in each hand.|将饕餮的制造能力给予其他角色。尝试将你找到的物体组合成新物体，以在不同场合下提供帮助。每只手各拿一个物品时，通过按住“上方向键”和“拾取”键激活。
+Increases the chosen characters running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less efective for larger characters.|借用溪流的高敏捷性来增加所选角色的奔跑和跳跃能力，让你轻松穿越很远的距离。角色越大，效果越差。
+Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|用玩笑步枪开始探险。步枪最初作为愚人节笑话加入了游戏，现在它成了《雨世界：倾盆大雨》中一种有用的工具。通过按住拾取键将不同的物品作为弹药，装入步枪进行实验，然后使用投掷键发射步枪。
+Shrouds the entire world in an endless night, obscuring danger in every shadow. A light source will be vital for survival.|将整个世界笼罩在无尽的黑夜中，将危险隐藏在每个阴影处。光源对生存至关重要。
+Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.|移除业力提供的安全保障，任何失败都会触发永久死亡。使用业力花增益只会稍微减轻惩罚。
+Makes the player public enemy number one. All hostile creatures in the region will know your location at all times, making standing still a bad choice.|让玩家成为头号公敌。该区域的所有敌对生物都会随时知道你的位置，因此原地不动是一个糟糕的选择。
+Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.|有某种东西在世界各地跟踪你，它会无休止地寻找它的目标。虽然要打败它不是不可能，但它总会回来的。

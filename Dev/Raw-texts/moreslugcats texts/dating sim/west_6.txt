@@ -1,0 +1,13 @@
+blush_anim_0.25
+gm2
+
+The hefty slugcat looks at you with the strangest look in their eye.
+"Are you sure that's what you want?"
+"yes... ive never been this sure of anything in my life."
+With that, the hefty slugcat smiles.
+"Alright then. As long as you're sure about this, let's do it."
+You nod your head.
+This is the happiest moment of your life.
+
+Take their hand and go someplace private.
+west_7.txt

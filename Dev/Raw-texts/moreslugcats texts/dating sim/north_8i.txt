@@ -1,0 +1,10 @@
+sm8
+bl1
+
+"Hello it's... nice to meet you........??"
+"uh, hey, wats up?"
+"I, uh... ummm.... I just think you're like.... pretty cute..."
+"oh. thanks."
+
+"so, do u come here often?"
+north_8j.txt

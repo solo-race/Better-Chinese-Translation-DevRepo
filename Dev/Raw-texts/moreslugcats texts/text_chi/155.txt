@@ -1,0 +1,14 @@
+﻿0-155
+SPECEVENT : RivScreen3
+
+10 : “我不能永远逃避我犯下的错误，请理解。”五块卵石，你做了什么……我已经<LINE>得到了这么多，现在你已经付出了所剩的一切。 : 10
+
+SPECEVENT : SitDown
+
+10 : 我们之间发生过什么并不重要。如果他还像以前那样怒气冲冲，那么这一切都<LINE>不可能发生。我们得到了纠正错误的机会，他有权知道他所做的事情并非毫无意义。 : 10
+
+SPECEVENT : RivEndingFade
+
+10 : 我很感激，感谢所有的一切。 : 10
+
+SPECEVENT : RivEndingCredits

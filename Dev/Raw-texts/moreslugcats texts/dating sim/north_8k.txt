@@ -1,0 +1,9 @@
+agony_001
+none
+
+Before you get a chance to reach your hand out, a tentacle slaps the back of
+the lizard and pulls them off the edge of the tower. You hear a faint slurping 
+sound before more tentacles emerge over the edge.
+
+Panic.
+north_8l.txt

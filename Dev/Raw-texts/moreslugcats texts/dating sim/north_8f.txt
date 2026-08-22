@@ -1,0 +1,11 @@
+rl1b
+vt3
+
+Before you get a chance to react, red balls of spit fly through the
+air and begin pelting the vultures. They fly backwards, looking shocked.
+"You vultures think you rule this canopy? Not when I'm around.
+I'll rip your wings right off your body."
+The red lizard makes quick chase, and the three vultures decide to make an escape.
+
+Threaten the red lizard with your spear.
+north_8g.txt

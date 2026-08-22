@@ -1,0 +1,11 @@
+sm2
+none
+
+The gill-slugcat giggles and then suddenly jumps down into a small puddle of water and disappears.
+The cave becomes very quiet after that.
+You wonder if they're coming back or if maybe it didn't like your answer.
+
+Chase after them
+east_5a.txt
+Wait.
+east_5b.txt

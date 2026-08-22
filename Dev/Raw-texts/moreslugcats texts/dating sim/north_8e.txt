@@ -1,0 +1,8 @@
+sm3
+vt1
+
+"Raising your voice, eh?! We'll teach you a lesson you won't forget. 
+You won't forget the wrath of the vulture gang."
+
+Grab a spear off the ground.
+north_8f.txt

@@ -1,0 +1,12 @@
+sm2
+sp1
+
+"i kinda get wat it feels like to be nerfed, tbh..." 
+You pat spearmaster on the shoulder.
+"i gotta eat soo much food to hibernate, its just dumb. they even removed me from arena mode, wth??!"
+"Yeah, I guess you have it rough as well. These developers hate us." 
+Spearmaster looks at you with deep understanding.
+"Honestly I heard a rumor they were going to remove me from the game entirely. Absolutely sadistic."
+
+Give spearmaster a hug.
+north_7.txt

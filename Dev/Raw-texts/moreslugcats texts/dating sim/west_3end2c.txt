@@ -1,0 +1,14 @@
+sm5
+gm7
+
+The hefty slugcat looks behind you. 
+You follow their gaze and see that the three red lizards and the giant red centipede have surrounded you.
+"Go ahead and fight them. I'm a peace loving slugcat, fighting isn't really my thing," the hefty slugcat says.
+You sigh, and turn to face the enemies behind you.
+The three lizards hiss and growl, flashing their teeth.
+Before you get a chance to do anything, you're covered by their spit, while they quickly maul you to death.
+
+RESTART
+start.txt
+
+FADE

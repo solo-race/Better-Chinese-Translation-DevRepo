@@ -1,0 +1,18 @@
+sm2
+gm1
+
+You pick up a small rock and throw it at the hefty slugcat, but it bounces off their fat exterior, completely unfazed.
+The hefty slugcat stares at you, narrowing their eyes.
+You widen your eyes and begin to sweat profusely, preparing for the hefty slugcat's retaliation.
+The hefty slugcat walks towards you, raises a tiny stubby arm, and pokes you in the forehead.
+"I wasn't expecting to see someone else out here. You're not from my colony, right?" they ask.
+"uh... no? im looking for another slugcat to be my mate, owo" you say.
+"Ah, so that's it. I can tell by the way you said it, it's not an easy thing for you to say. 
+Things have been tough lately, haven't they?"
+
+"tough? nah im a pro gamer."
+west_3end.txt
+"it's been soo tough!"
+west_3end2.txt
+"i'm lonely."
+west_3.txt

@@ -1,0 +1,11 @@
+sm1
+none
+
+You step into the entrance and make yourself comfortable.
+However, you begin to hear some noise.
+It sounds like someone is moving around and making sounds, but you cannot make
+out what it is because the noise is coming from further inside the cave. 
+You are uneasy and unsure of what to do.
+
+Call out to them.
+east_3.txt

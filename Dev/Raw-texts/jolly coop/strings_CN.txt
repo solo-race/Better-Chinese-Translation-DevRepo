@@ -1,0 +1,95 @@
+﻿0JOLLY COOP|惬意合作模式
+Difficulty|难度
+Color Mode|色彩模式
+INFO_COLOR|共有三种色彩选项：<LINE><LINE>- 默认：使用每只蛞蝓猫的原始颜色。<LINE>- 自动：让游戏为每只蛞蝓猫选择不同的颜色。<LINE>- 自定义：使用滑块调整颜色。
+Input Help|输入帮助
+Spears hit|玩家互伤
+Players: <num_p>|玩家：<num_p>
+Friendly lizards|友好蜥蜴
+Player <p_n>|玩家<p_n>
+Camera Input|摄像头输入
+Local co-op!|本地合作模式！
+ADJUST_COLOR|调整色彩模式
+COLOR_BUTTON|色彩
+REFER_MANUAL|查看手册以获取更多信息
+INTRODUCTION|简介
+DIFFICULTIES|难度
+PIGGYBACKING|背负
+INFO_DIFF|惬意合作模式中提供三种难度：<LINE><LINE>- 在简单难度下，只需一名玩家到达庇护所。<LINE>- 在普通难度下，所有玩家（无论死活）<LINE>都需要到达庇护所。一定要带上你倒下的队友！<LINE>- 在困难难度下，每个玩家都需要活着才能完成雨循环。<LINE><LINE>记住如果要睡觉，所有活着的玩家都需要在同一个庇护所里，<LINE>所有难度都一样！
+INFO_CAMERA|在惬意合作模式中，摄像头由所有玩家共享。游玩期间，屏幕的右下角有一个会显示摄像头当前跟随目标的箭头。<LINE>如要将摄像头重新定位到你的玩家，请连续轻触“地图”键。<LINE><LINE>“摄像头输入”选项可以配置你需要连续轻触的速度，且此选项主要是一个辅助功能选项！
+Spears miss|禁用玩家互伤
+No stealing|无法偷窃
+INFO_DIFF_DESCRIPTION|点击以获取有关难度选项的更多信息
+description_spears_on|你投掷的长矛不会击中其他玩家
+MANUAL_INTRODUCTION_1|你可以在惬意合作模式中和你的朋友游玩剧情和其他游戏模式！<WWLINE>选择你最喜欢的蛞蝓猫，与最多4名玩家一起体验旅程吧。
+MANUAL_PIGGYBACKING_1|惬意合作模式中，在蹲伏的玩家附近按住<PICK UP><WWLINE>键即可将其背在背上。你也可以对已经丧失行动能力的<WWLINE>玩家使用该操作。
+MANUAL_PIGGYBACKING_2|你可以投掷背上的玩家，使其可以够到更高的平台或物品。<WWLINE>被背在背上的玩家也可以随时跳下来。
+INFO_CAMERA_DESCRIPTION|点击以获取有关摄像头选项的更多信息
+INFO_COLOR_DESCRIPTION|点击以获取有关色彩选项的更多信息
+DIFFICULTY INFORMATION|难度信息
+description_spears_off|你投掷的长矛会击中其他玩家
+CAMERA INFORMATION|摄像头信息
+description_pup_on|玩家<p_n>为蛞蝓猫幼崽
+description_hud_on|隐藏玩家姓名和其他指示
+MANUAL_SURVIVING_1|若要成功休眠，所有活着的玩家都需要在同一个庇护所里，所有难度都一样！对于其他事件（例如穿过大门）也是如此。
+MANUAL_SELECTING_1|你可以混合并组合你所游玩的蛞蝓猫！首先，<WWLINE>像往常一样选择一个剧情，这将决定世界和故事<WWLINE>（需要的食物、生成的生物等等）。
+MANUAL_SELECTING_2|然后，打开惬意合作模式菜单并选择每个玩家的外观和能力！<WWLINE>你也可以选择游玩幼崽。
+COLOR INFORMATION|色彩信息
+Vanilla shortcuts|默认通路
+Friendly stealing|友好偷窃
+ADJUST_DIFFICULTY|调整难度
+SURVIVING A CYCLE|生存一个雨循环
+MANUAL_POINTING_1|你可以通过手势与其他玩家和拾荒者交流！<WWLINE>
+MANUAL_POINTING_2|若要使用手势，请连续轻触并按住<MAP>键。按住<MAP>键时，<WWLINE>朝一个方向移动以控制你指向的位置。<WWLINE>
+MANUAL_POINTING_3|指向一个生物或物品会使其高亮显示。<WWLINE>拾荒者也会看向你指的东西！
+Adjust the number of players|调整玩家数量
+description_camera_toggle_on|当摄像头跟随你时，再次发出请求会使其跟随下一个玩家
+CLOSE|关闭
+RESET|重置
+PLAYER_CLASS_INSTRUCTION_MAIN|若要更改玩家1的角色，请使用不同的剧情故事。
+description_camera_toggle_off|在已经被跟随时请求相机将不会有任何反应
+description_smart_shorcuts_on|（推荐）更换房间时，你将在通路内等待其他玩家
+PLAYER_CLASS_INSTRUCTION|为玩家<p_n>选择外观和能力。
+PLAYER_CUSTOM_NAME_DESCRIPTION|点击以更改玩家<p_n>的名字。
+description_smart_shorcuts_off|通路将正常运行
+description_friendlylizards_on|被驯服的蜥蜴会对其他玩家友好
+EASY|简单
+HARD|困难
+FAST|快速
+SLOW|缓慢
+AUTO|自动
+SHOW|显示
+Body|身体
+Eyes|眼睛
+NORMAL|普通
+CUSTOM|自定义
+HUD on|抬头显示器开启
+CAMERA|摄像头
+DEFAULT|默认
+HUD off|抬头显示器关闭
+description_pup_off|玩家<p_n>为正常年龄
+description_hud_off|显示玩家姓名和其他指示
+COLOR CONFIGURATION|色彩配置
+JOLLY_MANUAL_BUTTON|手册
+SELECTING A SLUGCAT|选择一个蛞蝓猫
+MANUAL_DIFFICULTY_1|惬意合作模式有三种可用难度：
+MANUAL_DIFFICULTY_2|- 简单：只需一名玩家到达庇护所。
+MANUAL_DIFFICULTY_3|- 普通：所有玩家（无论死活）都需要到达庇护所<WWLINE>一定要带上你倒下的队友！
+MANUAL_DIFFICULTY_4|- 困难：每个玩家都需要活着才能完成雨循环。
+description_friendlylizards_off|被驯服的蜥蜴会攻击未知玩家
+description_friendlystealing_on|玩家可以从其他玩家手中偷取物品
+description_friendlystealing_off|禁用玩家之间的偷窃
+Camera cycles|摄像头循环
+ADJUST_CAMERA|调整摄像头辅助功能
+Camera doesn't cycle|摄像头不会循环
+Smart shortcuts|智能通路
+Vanilla lizards|默认蜥蜴
+MANUAL_CAMERA_1|在惬意合作模式中，游戏摄像头由所有玩家共享，<WWLINE>它可以在任何给定时间跟随特定玩家。点击<MAP><WWLINE>键即可使摄像头重新跟随你。
+MANUAL_CAMERA_2|你可以在惬意合作模式菜单中配置点击<MAP>按钮所需的速度。
+MANUAL_CAMERA_3|如果摄像头循环选项在惬意合作模式菜单中已启用，在摄像头已经跟随你的情况下轻触<MAP>键即可使其跟随下一个玩家。
+MANUAL_CAMERA_4|右下角的指示器将在摄像机当前跟随的玩家上显示一个箭头。
+MANUAL_CAMERA_5|在剧情的某些节点，镜头可能会锁定在特定玩家身上，这将由一个特殊的图标表示。
+HUE|色调
+SAT|饱和度
+LIT|亮度
+POINTING|手势

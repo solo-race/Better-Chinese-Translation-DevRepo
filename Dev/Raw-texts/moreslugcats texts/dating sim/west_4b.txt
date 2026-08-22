@@ -1,0 +1,13 @@
+sm10
+gm2
+
+You reach your hand out to hold theirs, curious of their reaction. 
+They look at you with a confused expression, but they grab onto you as well.
+"I'm Gourmand," the hefty slugcat says.
+"i'm..." you say, before realizing you don't know your name.
+"i...uh...forgot my name."
+"It's OK. It'll probably come back to you eventually," Gourmand says.
+"cool."
+
+"wat u doing out here rn?"
+west_5.txt

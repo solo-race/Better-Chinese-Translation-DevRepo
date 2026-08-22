@@ -1,0 +1,13 @@
+sm5
+none
+
+You cautiously edge around the corner, your eyes peering into the darkness.
+You see nothing, but hear the chomping of jaws again.
+As if perfectly blended with the darkness, the black mouth of a lizard springs out of the darkness at you.
+It is an ambush predator, and you've fallen into the jaws of a carnivorous monster!
+There is a fiery pain before the world fades away.
+
+RESTART
+start.txt
+
+FADE

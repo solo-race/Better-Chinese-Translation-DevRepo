@@ -1,0 +1,9 @@
+sm6
+sp2
+
+You decide to wait and watch it some more, as you're not too sure what to make of the creature. 
+It simply sits there and continues to generate more and more spikes out of its tail, building an arsenal of weaponry. 
+It must be preparing for a big hunt. A true survivor. You can't help but be impressed.
+
+Grab some spears to assist it in the hunt.
+north_1b.txt

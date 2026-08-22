@@ -1,0 +1,13 @@
+sm3
+gm7
+
+The spear flies through the air in an arc and lands in front of the hefty slugcat. 
+They look at it, and then they look at you. You back up slowly, unsure of what they will do. 
+They pick up the spear, sniff it, and then throw it at you. You try to duck, but get hit in the leg.
+"Ohh! I'm sorry!! I thought you would catch it!" the heavy slugcat says, running towards you.
+"what??"
+"The spear. I threw it so you would catch it. I didn't mean to hit you."
+You stare at them in disbelief.
+
+Hold your leg in pain.
+west_2endb.txt

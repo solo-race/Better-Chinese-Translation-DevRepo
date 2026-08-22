@@ -1,0 +1,12 @@
+sm4
+sa3
+
+The slugcat settles the egg on the ground and stares at it with determination.
+"Let me take care of this. It'll all be over soon."
+They enter into a deep concentration, and begin to levitate slightly above the ground.
+A bright X-shaped light forms above their head, and then begins to travel towards the egg.
+As the light settles over the egg, it begins to grow increasingly brighter.
+Then in a quick culmination, the light is met with a deafening pang as it ruptures the egg.
+
+Cover your ears.
+down_c7.txt

@@ -1,0 +1,11 @@
+sm10
+gm2
+
+You pat the hefty slugcat on the back, extending your arm out as far as it could go. 
+You feel a slight pain in your arm, but you push through.
+"Thanks. I really needed that," the hefty slugcat says, extending their own arm out. 
+They pat you on the head.
+You feel warm and fuzzy. Somehow, you don't feel alone anymore.
+
+"wat u doing out here rn?"
+west_5.txt

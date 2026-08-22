@@ -1,0 +1,16 @@
+sm5
+at2
+
+You continue moving cautiously, approaching the mother slugcat at a slow pace. 
+It isn't working; she remains frightened of you. 
+You try to think of how to calm her, but it seems your efforts are in vain.
+She grabs the spear lying on the ground next to her. You watch as she aims it directly at you.
+"pls, don't hurt me bb..." You find yourself saying.
+Her spear releases, flying straight towards you. You attempt to dodge, but to no avail. 
+It pierces straight through you, and you fall to the ground.
+You have been killed by the mother slugcat.
+
+RESTART
+start.txt
+
+FADE

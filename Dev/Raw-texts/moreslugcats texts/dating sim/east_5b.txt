@@ -1,0 +1,11 @@
+sm3
+rv4
+
+After only a few minutes of waiting, you feel and hear an ominous rumbling.
+The slugcat springs back out of the puddle excitedly, a huge smile on their face.
+They are trailed by a monstrous mechanical beast larger than you've ever seen.
+You are not smiling.
+You are scared.
+
+Roll out of the way
+east_5b2.txt

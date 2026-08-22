@@ -1,0 +1,15 @@
+sm5
+at1
+
+You fling the explosive egg at her in an attempt to subdue her. 
+The egg shatters when it hits the ground, instantly beginning to generate a spacetime singularity.
+The other slugcat creates her own explosion, parrying the egg back towards you. 
+You try to run away, but the shockwave of the explosion slams into you, hurting you severely.
+You lie on the floor dying, as the other slugcat looks at you with pity. 
+She utters a few last words:
+"I am sorry, but you should have known better than to mess with a mother slugcat on the hunt."
+
+RESTART
+start.txt
+
+FADE

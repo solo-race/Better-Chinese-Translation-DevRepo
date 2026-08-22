@@ -1,0 +1,10 @@
+sm7
+sp1a
+
+"What?? Oh... I don't need a mouth for that. I vocalize out of my tail."
+You stare at the holes on their tail both fascinated and repulsed by their questionable biology.
+
+Approach the tail.
+north_6a.txt
+Share in their frustration.
+north_6b.txt

@@ -1,0 +1,10 @@
+sm9
+sa2
+
+"Thanks, I just got a haircut. My fur was getting pretty long."
+They look you over, from head to toe.
+It doesn't seem to be particularly flirtatious, more a method of thorough inspection.
+You become self-conscious about your many flaws.
+
+"haha, yea, me too"
+down_b2.txt

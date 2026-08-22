@@ -1,0 +1,9 @@
+sm1
+none
+
+To the south, you approach a land of waste and ruins.
+The scattered byproducts of bygone eras lie strewn across the landscape
+in mounds that resemble artificial hills and mountains.
+
+You proceed further.
+south_2.txt

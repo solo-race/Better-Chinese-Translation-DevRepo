@@ -1,0 +1,340 @@
+﻿0Moth Grubs|Moth Grubs
+Sand Grubs|Sand Grubs
+Sand Worms|Sand Worms
+Sky Whales|Sky Whales
+Millipedes|Millipedes
+EXPEDITION|EXPEDITION
+MILESTONES|MILESTONES
+Salamander|Salamander
+Scavengers|Scavengers
+Centiwings|Centiwings
+Tube Worms|Grappling Worms
+Leviathans|Leviathans
+Inspectors|Inspectors
+Back Spear|Back Spear
+Joke Rifle|Joke Rifle
+AVAILABLE:|AVAILABLE:
+Puff Balls|Puff Balls
+CHALLENGES|CHALLENGES
+BEST TIME:|BEST TIME:
+Ripple Spiders|Ripple Spiders
+Indigo Lizards|Indigo Lizards
+Grapple Snakes|Grapple Snakes
+Yellow Lizards|Yellow Lizards
+Red Centipedes|Red Centipedes
+Miros Vultures|Miros Vultures
+Mother Spiders|Mother Spiders
+Slugcat Select|Slugcat Select
+colored pearls|colored pearls
+Explosive Jump|Explosive Jump
+Scavenger Bomb|Scavenger Bomb
+Electric Spear|Electric Spear
+Neuron Gifting|Neuron Gifting
+Pearl Delivery|Pearl Delivery
+Pearl Hoarding|Pearl Hoarding
+Vista Visiting|Vista Visiting
+Scavenger Hunt|Scavenger Hunt
+Challenge list|Challenge list
+Total: <total>|Total: <total>
+SLUGCAT SELECT|SLUGCAT SELECT
+NEW BEST TIME:|NEW BEST TIME:
+Peach Lizards|Peach Lizards
+Rot Behemoths|Rot Behemoths
+-PROGRESSION-|-PROGRESSION-
+-UNLOCKABLES-|-UNLOCKABLES-
+Apex Predator|Apex Predator
+Green Lizards|Green Lizards
+White Lizards|White Lizards
+Black Lizards|Black Lizards
+White Cicadas|White Squidcadas
+Black Cicadas|Black Squidcadas
+King Vultures|King Vultures
+Large Spiders|Big Spiders
+Stowaway Bugs|Stowaway
+common pearls|common pearls
+Item Crafting|Item Crafting
+Vulture Masks|Vulture Masks
+Echo Sighting|Echo
+Overall Score|Overall Score
+Spear Pinning|Spear Pinning
+Guiding Light|Guiding Light
+Normal: <num>|Normal: <num>
+Hidden: <num>|Hidden: <num>
+Rattlers|Bone Shakers
+-CUSTOM-|-CUSTOM-
+LEVEL UP|LEVEL UP
+- PAGE -|- PAGE -
+DESELECT|DESELECT
+Slugcats|Slugcats
+Vultures|Vultures
+Egg Bugs|Egg Bugs
+Dropwigs|Dropwigs
+Batflies|Batflies
+Firebugs|Firebugs
+DEATHS :|DEATHS :
+BURDENS:|BURDENS:
+a neuron|a neuron
+MISSIONS|MISSIONS
+CONTROLS|CONTROLS
+Barnacles|Barnacles
+Big Moths|Big Moths
+Box Worms|Box Worms
+-FILTERS-|-FILTERS-
+Food Tour|Food Tour
+MILESTONE|MILESTONE
+Rain Deer|Rain Deer
+Aquapedes|Aquapedes
+Slow Time|Slow Time
+Fly Lures|Fly Lures
+Jellyfish|Jellyfish
+Mushrooms|Mushrooms
+Missions:|Missions:
+Drill Crabs|Drill Crabs
+Small Moths|Small Moths
+Tardigrades|Tardigrades
+Red Lizards|Red Lizards
+Pole Mimics|Pole Mimics
+Miros Birds|Miros Birds
+Eel Lizards|Eel Lizards
+Progression|Progression
+Neuron Glow|Neuron Glow
+Flare Bombs|Flare Bombs
+Cycle Score|Cycle Score
+UNLOCKABLES|UNLOCKABLES
+EXPEDITIONS|EXPEDITIONS
+Fire Sprites|Fire Sprites
+-EXPEDITION-|-EXPEDITION-
+-CHALLENGES-|-CHALLENGES-
+-MILESTONES-|-MILESTONES-
+Now Playing:|Now Playing:
+FINAL SCORE:|FINAL SCORE:
+Five Pebbles|Five Pebbles
+Pink Lizards|Pink Lizards
+Blue Lizards|Blue Lizards
+Cyan Lizards|Cyan Lizards
+Monster Kelp|Monster Kelp
+Lantern Mice|Lantern Mice
+LEVEL <next>|LEVEL <next>
+Vulture Mask|Vulture Mask
+Karma Flower|Karma Flower
+High Agility|High Agility
+Perk: <perk>|Perk: <perk>
+Birdwatching|Birdwatching
+REQUIREMENTS|REQUIREMENTS
+Scavenger Templars|Scavenger Templars
+Strawberry Lizards|Strawberry Lizards
+Reach Level: <num>|Reach Level: <num>
+Firecracker Plants|Firecracker Plants
+Scavenger Lanterns|Scavenger Lanterns
+Expedition-Players|Players: <num_p>
+UNLOCKING SLUGCATS|UNLOCKING SLUGCATS
+Scavenger Disciples|Scavenger Disciples
+CHOOSE YOUR SLUGCAT|CHOOSE YOUR SLUGCAT
+NEW<LINE>EXPEDITION|NEW<LINE>EXPEDITION
+Spear Dual-Wielding|Spear Dual-Wielding
+Loaches|Loaches
+Anglers|Anglers
+BURDENS|BURDENS
+Jetfish|Jetfish
+JUKEBOX|JUKEBOX
+Jukebox|Jukebox
+ABANDON|ABANDON
+CYCLE :|CYCLE :
+KARMA :|KARMA :
+POINTS:|POINTS:
+BLINDED|BLINDED
+PURSUED|PURSUED
+neurons|neurons
+Passage|Passage
+Mission|Mission
+GENERAL|GENERAL
+Quests:|Quests:
+REWARDS|REWARDS
+DISMISS|DISMISS
+Blizzard Lizards|Blizzard Lizards
+Basilisk Lizards|Basilisk Lizards
+MISSION SELECTED|MISSION SELECTED
+Small Centipedes|Small Centipedes
+Large Centipedes|Large Centipedes
+Terror Long Legs|Mother Long Legs
+Elite Scavengers|Elite Scavengers
+Challenge Select|Challenge Select
+Singularity Bomb|Singularity Bomb
+Points: <points>|Points: <points>
+Burden: <burden>|Burden: <burden>
+Creature Hunting|Hunting
+CHALLENGE FILTER|CHALLENGE FILTER
+GAMEPLAY CHANGES|GAMEPLAY CHANGES
+CHALLENGE SELECT|CHALLENGE SELECT
+Rats|Rats
+NEW!|NEW!
+Yeek|Yeek
+EXIT|EXIT
+EASY|EASY
+HARD|HARD
+BACK|BACK
+NEXT|NEXT
+Frogs|Frogs
+KILLS|KILLS
+CLOSE|CLOSE
+LEVEL|LEVEL
+EMPTY|EMPTY
+PERKS|PERKS
+You are missing one or more of the mission's requirements|You are missing one or more of the mission's requirements
+Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.|Burdens are modifiers you can add to your Expedition to increase the difficulty. In return, a multiplier is applied to your final score, increasing the number of points it's possible to earn.
+Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.|Challenges can be re-rolled for new ones by selecting them. The difficulty of the new challenge can be adjusted by dragging the difficulty slider, more difficult challenges award more points.
+Start the expedition with a charged Electric Spear. The spear is extremely useful for dealing high amounts of damage and stunning creatures. The spear can be recharged by impaling centipedes.|Start the expedition with a charged Electric Spear. The spear is extremely useful for dealing high amounts of damage and stunning creatures. The spear can be recharged by impaling centipedes.
+Gives The Artificer's explosive double-jump ability to other characters, activated by pressing JUMP and PICK UP whilst in the air. Very useful for traversal and escaping dangerous situations.|Gives The Artificer's explosive double-jump ability to other characters, activated by pressing JUMP and PICK UP whilst in the air. Very useful for traversal and escaping dangerous situations.
+Custom|Custom
+BONUS:|BONUS:
+HIDDEN|HIDDEN
+LOCKED|LOCKED
+Track:|Track:
+Snails|Snails
+TIME :|TIME :
+DOOMED|DOOMED
+HUNTED|HUNTED
+MUSIC:|MUSIC:
+QUESTS|QUESTS
+CONFIGURE<LINE>PERKS & BURDENS|CONFIGURE<LINE>PERKS & BURDENS
+Visit the <echo_location> Echo|Visit the <echo_location> Echo
+Total Hidden Challenges: <num>|Total Hidden Challenges: <num>
+Total Wins as <slugcat>: <num>|Total Wins as <slugcat>: <num>
+Total <type> Challenges: <num>|Total <type> Challenges: <num>
+Points to Next Level: <points>|Points to Next Level: <points>
+START NEW<LINE>EXPEDITION|START NEW<LINE>EXPEDITION
+CHALLENGE DIFFICULTY|CHALLENGE DIFFICULTY
+Completed Challenges|Completed Challenges
+Explosion Resistance|Explosion Resistance
+Challenges Completed:|Challenges Completed:
+RETRY<LINE>EXPEDITION|RETRY<LINE>EXPEDITION
+- D E M O   M O D E -|- D E M O   M O D E -
+CONTINUE<LINE>MISSION|CONTINUE<LINE>MISSION
+Perk Capacity: +<num>|Perk Capacity: +<num>
+COMMENCE<LINE>MISSION|COMMENCE<LINE>MISSION
+Store <amount> <target_item> in the same shelter|Store <amount> <target_item> in the same shelter
+Successfully hibernate to finish this expedition|Successfully hibernate to finish this expedition
+Looks To The Moon|Looks To The Moon
+Brother Long Legs|Brother Long Legs
+Large Noodleflies|Large Noodleflies
+Scavenger Lantern|Scavenger Lantern
+Challenges: <num>|Challenges: <num>
+Total Wins: <num>|Total Wins: <num>
+Music: <songName>|Music: <songName>
+You feel the presence of a vista . . .|You feel the presence of a vista . . .
+<region> pearl delivered to <iterator>|<region> pearl delivered to <iterator>
+Reach the vista point in <region_name>|Reach the vista point in <region_name>
+E X P E D I T I O N    C O M P L E T E|E X P E D I T I O N    C O M P L E T E
+<Unlocked> of <Max> Tracks Unlocked|<Unlocked> of <Max> Tracks Unlocked
+Reach these milestones across multiple Expeditions:|Reach these milestones across multiple Expeditions:
+Toggle which challenges can appear when randomising|Toggle which challenges can appear when randomising
+The Expedition will end upon entering the Depths...|The Expedition will end upon entering The Depths...
+Complete an Expedition with the following requirements:|Complete an Expedition with the following requirements:
+Kill <target_creature> [<current_kills>/<target_kills>]|Kill <target_creature> [<current_kills>/<target_kills>]
+This quest has been completed|This quest has been completed
+<challenge> Challenges: <num>|<challenge> Challenges: <num>
+Total Points Earned: <points>|Total Points Earned: <points>
+Spitter Spiders|Spitter Spiders
+Daddy Long Legs|Daddy Long Legs
+Caramel Lizards|Caramel Lizards
+Large Jellyfish|Large Jellyfish
+LEVEL <current>|LEVEL <current>
+POINTS: <score>|POINTS: <score>
+Enable Passages|Enable Passages
+Slugcat: <slug>|Slugcat: <slug>
+Scavenger Bombs|Scavenger Bombs
+Item Collecting|Item Collecting
+Nature's Friend|Nature's Friend
+Hunter Gatherer|Hunter Gatherer
+Change of Heart|Change of Heart
+With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve|With no unique skills to boast about, The Survivor embarks on an<LINE>Expedition to test their resolve
+Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world|Attuned with nature and empathetic to its inhabitants, The Monk departs<LINE>to find their place in the world
+Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.|Opens the challenge filter menu, allowing you to toggle which types of challenges can appear when re-rolling.
+Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger|Dextrous and handy with a spear, The Hunter sets forth once again<LINE>into a world of danger
+A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal|A brave explorer, hungry for their next adventure, or perhaps<LINE>their next meal
+An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown|An explosive fighter and combat expert, The Artificer journeys once<LINE>again into the unknown
+A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril|A spear expert forced to fight to survive, their Expedition is<LINE>sure to be one fraught with peril
+Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity|Extremely agile and an adept swimmer, The Rivulet speeds<LINE>towards their goal out of necessity
+Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.|Start the expedition with a Scavenger Bomb, a potential head start for combat related challenges.
+A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose|A pacifist at heart, The Saint endures the bitter cold and searches<LINE>for their purpose
+Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]|Earn <score_target> points from creature kills this cycle [<current_score>/<score_target>]
+Start the expedition with reinforced karma, a Karma Flower will spawn at the site of death|Start the expedition with reinforced karma. A Karma Flower will spawn at the site of death
+CONTINUE<LINE>EXPEDITION|CONTINUE<LINE>EXPEDITION
+PERKS: <current>/<limit>|PERKS: <current>/<limit>
+You are being pursued...|You are being pursued...
+Hidden Challenges: <num>|Hidden Challenges: <num>
+Current Points: <points>|Current Points: <points>
+Enable a range of perks to aid you in your expedition|Enable a range of perks to aid you in your expedition
+Reach milestones and complete expeditions with certain restrictions to earn rewards|Reach milestones and complete expeditions with certain restrictions to earn rewards
+The required character has an on-going expedition, finish or abandon it to continue|The required character has an on-going expedition, finish or abandon it to continue
+Earn <achievement_name> passage|Earn <achievement_name> passage
+Plays unlocked tracks at random|Plays unlocked tracks at random
+Earn <score_target> points from creature kills [<current_score>/<score_target>]|Earn <score_target> points from creature kills [<current_score>/<score_target>]
+Neurons delivered to Looks to the Moon <progress>|Neurons delivered to Looks to the Moon <progress>
+The Expedition will end upon taking the plunge...|The Expedition will end upon taking the plunge...
+Store <amount> <target_pearl> in a shelter in <region_name>|Store <amount> <target_pearl> in a shelter in <region_name>
+Pin <pin_amount> creatures to walls or floors [<current_pin>/<pin_amount>]|Pin <pin_amount> creatures to walls or floors [<current_pin>/<pin_amount>]
+The pursuer retreats...|The pursuer retreats...
+Mission: <mission_name>|Mission: <mission_name>
+Total Points:  <points>|Total Points:  <points>
+EXPEDITION-INTRODUCTION|INTRODUCTION
+Total Challenges Completed: <num>|Total Challenges Completed: <num>
+<num> Quests Completed|<num> Quests Completed
+Current Level: <level>|Current Level: <level>
+Recover all karma and fast travel to any discovered shelter, consumes an earned passage|Recover all karma and fast travel to any discovered shelter; consumes an earned passage
+Missing Requirements:      <req>|Missing Requirements:      <req>
+Slugcat Unlocked: <slugcat>|Slugcat Unlocked: <slugcat>
+Q U E S T   C O M P L E T E|Q U E S T   C O M P L E T E
+Warning: Hidden challenges will become normal challenges when retrying|Warning: Hidden challenges will become normal challenges after retrying
+Enables a persistent glow around the player|Enables a persistent glow around the player
+Start the expedition with an Electric Spear|Start the expedition with an Electric Spear
+Start the expedition with a Scavenger Bomb|Start the expedition with a Scavenger Bomb
+Start the expedition with a Scavenger Lantern|Start the expedition with a Scavenger Lantern
+Slow time at will by holding PICK UP and pressing MAP, also temporarily increases movement abilities|Slow time at will by holding PICK UP and pressing MAP, also temporarily increases movement abilities
+Enables the use of passages during expeditions which can be earned by completing challenges|Enables the use of passages during expeditions which can be earned by completing challenges
+Allows the player to stow an additional spear on their back by holding PICK UP|Allows the player to stow an additional spear on their back by holding PICK UP
+Start the expedition with a Vulture Mask|Start the expedition with a Vulture Mask
+Start the expedition with the Joke Rifle|Start the expedition with the Joke Rifle
+Allows the player to wield a spear in each hand|Allows the player to wield a spear in each hand
+Makes the player highly resistant to explosions|Makes the player highly resistant to explosions
+Start the expedition with a Singularity Bomb|Start the expedition with a Singularity Bomb
+Allows the player to jump a second time mid-air by pressing JUMP and PICKUP|Allows the player to jump a second time mid-air by pressing JUMP and PICK UP
+Apply Burdens to increase both difficulty and the amount of points received|Apply Burdens to increase both difficulty and the amount of points received
+Craft different combinations of items together by holding UP and PICK UP|Craft different combinations of items together by holding UP and PICK UP
+Whilst undertaking an expedition, certain gameplay elements are changed:|Whilst undertaking an expedition, certain gameplay elements are changed:
+Increases the players movement abilities, granting high speed and jump height|Increases the players movement abilities, granting high speed and jump height
+Expedition is a challenge oriented gamemode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.|Expedition is a challenge oriented game mode featuring permadeath and progression. Pick a character and prepare for an expedition by selecting which challenges to undertake.
+A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.|A successful expedition will grant points and varying rewards depending on what was accomplished, these can range from new Perks to use in future runs, Burdens to increase the difficulty in interesting ways, and music tracks that can be played in the Jukebox menu.
+Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear and discovered lore is not saved in the Collection menu.|Players start the Expedition in a randomly selected shelter.<LINE>All characters start with two karma and have a maximum karma limit of five.<LINE>The Survivor achievement is completed by default, and other achievements are not gated by it.<LINE>Passages are disabled by default, instead being unlocked by a Perk.<LINE>Echoes will not spawn on the first cycle.<LINE>There is no cycle limit for The Hunter in Expedition.<LINE>Collectable tokens will not appear.
+Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.|Select a slugcat to use for the duration of the expedition. The expedition will take place in the same world as their campaign but with story elements removed. If Jolly Co-op is enabled, you can also configure the number of additional players at any time.
+Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten|Monk and Survivor - Unlocked by default<LINE>Hunter - Unlocked once Monk or Surivor's campaign is beaten<LINE>Others - Unlocked once their campaign is beaten
+The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.|The challenge select page is where you craft your expedition. Adjust the number and types of challenges you will aim to complete and see how many points you will earn once the expedition is completed.
+Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.|Toggles whether or not the selected challenge is hidden. Hidden challenges are completely random and their requirements are only revealed once all regular challenges have been completed. Hidden challenges are worth twice as many points. An expedition must have at least one non-hidden challenge.
+Controls how many challenges the expedition will have, up to a maximum of five. A point bonus is applied for multiple challenges.|Controls how many challenges the expedition will have, up to a maximum of five. A point bonus is applied for multiple challenges.
+Randomizes all challenges at once. Can only be used if no challenge filters are applied.|Randomizes all challenges at once. Can only be used if no challenge filters are applied.
+Indicates your progress to the next level and how much the current expedition will award. If the bar blinks rapidly then completing the expedition will grant a level. The number at the end of the bar displays how many levels will granted.|Indicates your progress to the next level and how much the current expedition will award. If the bar blinks rapidly, then completing the expedition will grant a level. The number at the end of the bar displays how many levels will be granted.
+Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.|Complete quests to unlock additional content such as perks, burdens and music tracks.<LINE><LINE>'Expedition' quests are completed by undertaking an expedition that meets certain requirements, whilst 'Milestone' quests are completed after reaching a specific goal across multiple expeditions.
+Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!|Highlight a quest to see all of its requirements and rewards. Try to put together an expedition that completes multiple quests at once!
+Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.|Grants The Hunter's ability to store spears on their back to other characters. A useful buff for players engaging in combat challenges.
+Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. These cannot be removed, however additional Perks and Burdens can be enabled if desired.|Missions are hand-crafted expeditions with specific challenges and starting locations. Some missions may also require you to use a certain Perk or Burden. While these cannot be removed, additional Perks and Burdens can be enabled if desired.
+In order to select a mission, you must first unlock all of its requirements. Some quests will require that a mission is completed to grant its rewards. You can also repeat a mission at anytime to strive for the fastest time!|In order to select a mission, you must first unlock all of its requirements. Some quests will require that a mission be completed before granting its rewards. You can also repeat a mission at anytime to strive for the fastest time!
+The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.|The Jukebox menu lets you listen to your favourite tracks from Rain World and Rain World: Downpour. All music tracks can be unlocked as rewards for completing quests.
+Repeats the currently selected track|Repeats the currently selected track
+Set a track to play as the menu theme|Set a track to play as the menu theme
+Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.|Unlocked via quests, perks can be applied to an expedition to even the odds, granting new tools and abilities for making completing challenges easier. See below for a full list of unlockable perks.
+Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.|Start the expedition with a persistent glow around the player, usually granted by consuming a neuron. Useful in dark environments or when using the BLINDED burden.
+Start the expedition with a Scavenger Lantern, a portable light source -- and for some slugcats -- a source of vital warmth.|Start the expedition with a Scavenger Lantern, a portable light source (and for some slugcats a source of vital warmth).
+Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.|Grants the ability to slow time at will by holding PICK UP and pressing MAP. A visual indicator for the ability's cooldown appears above the cycle timer.
+re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.|Re-enables the use of passages to travel to previously visited shelters and recover all karma while doing so. Rather than being granted by achievements, a passage is awarded for each completed challenge.
+Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.|Start the expedition with a Vulture Mask, helping to keep hostile creatures at bay, or make them fleeing targets.
+Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death. Will be permanently lost if not recovered.|Start the expedition with reinforced karma. Reinforced karma is the only way to prevent permadeath at the lowest karma level. If the cycle ends in failure, a karma flower will appear at the site of death, which will be permanently lost if not recovered.
+Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.|Bestows the Spearmaster's dual-wielding ability to other characters. Being able to carry a spear in each hand greatly increases the speed at which you can deal damage.
+Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures, just make sure not to get caught in the blast.|Start the expedition with a Singularity Bomb, a devastating weapon that can eliminate even the toughest of creatures. Just be sure not to get caught in the blast yourself.
+Withstand explosive encounters by borrowing The Artificer's explosion immunity. Useful if unfavored by the Scavengers, or for surviving situations where an explosion may be a last resort.|Withstand explosive encounters by borrowing The Artificer's explosion immunity. Useful if unfavored by the Scavengers, or for surviving situations where an explosion may be a last resort.
+Grants The Gourmand's crafting ability to other characters. Experiment with objects you find by combining them into new ones to help in different situations. Activate by holding UP and PICK UP with an item in each hand.|Grants The Gourmand's crafting ability to other characters. Experiment with objects you find by combining them into new ones to help in different situations. Activate by holding UP and PICK UP with an item in each hand.
+Increases the chosen characters running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less efective for larger characters.|Increases the chosen character's running and jumping abilities by borrowing The Rivulet's high agility, letting you cross great distances with ease. Less effective for larger characters.
+Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.|Start the expedition with the Joke Rifle. Originally shown off as an April Fools joke, the Rifle makes its way into Rain World: Downpour as a useful tool. Experiment by loading different items as ammo by holding the PICK UP button, and fire the Rifle with the THROW button.
+Shrouds the entire world in an endless night, obscuring danger in every shadow. A light source will be vital for survival.|Shrouds the entire world in an endless night, obscuring danger in every shadow. A light source will be vital for survival.
+Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.|Removes the safety net that karma provides, triggering permadeath for any failure. Made only slightly less punishing with the use of the Karma Flower perk.
+Makes the player public enemy number one. All hostile creatures in the region will know your location at all times, making standing still a bad choice.|Makes the player public enemy number one. All hostile creatures in the region will know your location at all times, making standing still a bad choice.
+Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.|Something stalks you through the world, endlessly searching for its target. Though not impossible to defeat, it will always return.

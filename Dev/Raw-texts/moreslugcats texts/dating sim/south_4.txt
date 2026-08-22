@@ -1,0 +1,13 @@
+blush_anim_0.5
+at2
+
+You giggle at her exaggerated jump, and blush, and she stares at you angrily. 
+She begins heading away from you, and despair wells up inside of you. 
+It's your last chance, and you have to take it now.
+
+"wait!"
+south_5end.txt
+"ur cute <3"
+south_5end2.txt
+"i know what u rly need..."
+south_5.txt

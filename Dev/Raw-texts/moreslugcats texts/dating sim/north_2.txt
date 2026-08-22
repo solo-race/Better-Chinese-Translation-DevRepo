@@ -1,0 +1,11 @@
+sm10
+sp2
+
+You approach the strange slugcat cautiously, watching it as it climbs to the top of the tower. 
+You're not sure what it is doing, but you hope that it is another slugcat. 
+Maybe you could have a conversation or whatever slugcats do.
+You call out to it, but it doesn't react. Perhaps it is deaf, or cannot hear you. 
+You begin to wave your hands in an effort to get its attention.
+
+Throw a rock at it.
+north_3.txt

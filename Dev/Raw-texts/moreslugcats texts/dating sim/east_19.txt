@@ -1,0 +1,11 @@
+sm7
+bsm2
+
+"Oh, of course! It's been a while since I've cooked a proper meal!"
+The machine twirls around through the air excitedly.
+"With this egg we can make a classic, yet somewhat modern Slug Cake!"
+"u need more than an egg for that..." you say as you ponder the orbulus egg.
+"I can improvise. I'll have you know that I am a very capable cook!"
+
+"ok, good luck mom"
+east_20.txt

@@ -1,0 +1,14 @@
+sm8
+gm2
+
+"Weren't you inviting me for a private dinner?"
+"ohh yea! yeaaaa, of course, hahah!" you say, laughing nervously.
+You start coughing excessively, and you stare at them, worried.
+"Uh, what should I make for us to eat?"
+
+"i have this egg??"
+west_9.txt
+"u decide, i guess."
+west_9end.txt
+"i wanted u."
+west_9end2.txt

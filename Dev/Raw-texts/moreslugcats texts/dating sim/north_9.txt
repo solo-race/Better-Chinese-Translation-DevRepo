@@ -1,0 +1,13 @@
+sm10
+sp1
+
+You pull out your trusty egg that you carry with you all the time. 
+Spearmaster looks it over curiously. 
+"It has a hard shell, so I'm not sure how effective my spears would
+be at siphoning from it... but I suppose it's worth a shot."
+You place the egg on the ground and line it up neatly for a clean throw from
+one of spearmaster's spears. They take aim and throw a direct hit into the egg. 
+It immediately distorts the space around it like a miniature black hole.
+
+Shield your eyes.
+north_9b.txt

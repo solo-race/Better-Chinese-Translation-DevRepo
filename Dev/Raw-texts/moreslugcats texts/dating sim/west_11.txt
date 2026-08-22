@@ -1,0 +1,10 @@
+redeye_anim_1.0
+gmx
+
+The light is blinding. It is as if it has consumed everything.
+Out of the singular point of the slugcat's mouth, subatomic particles rain.
+They combine into atoms, and then into more complex elements and matter.
+Slowly, the light begins to consolidate into a dimmer afterglow.
+
+You open your eyes.
+west_12.txt

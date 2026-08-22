@@ -1,0 +1,8 @@
+sm10
+bsm3
+
+"Ah, you would like me to read this? It's a bit dusty, but I will do my best. Hold on..."
+Their mother begins to explain the properties of the egg to you in excruciating detail.
+
+"wat?! no dont explain it, make food with it!!"
+east_19.txt

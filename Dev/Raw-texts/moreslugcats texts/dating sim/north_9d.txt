@@ -1,0 +1,12 @@
+sm6
+sil
+
+Within the expanse of blackness, you soon see an unfamiliar silhouette.
+Mechanical noises whizz as it slowly pivots its way towards your location.
+"Little creature. You are my first visitor, but hopefully not the last.
+I expected I would be visited by one of my own, but I suppose a dimwitted creature like you will suffice."
+
+"this is pretty unlore, my man."
+north_9e.txt
+
+NA_03 - Wormpad

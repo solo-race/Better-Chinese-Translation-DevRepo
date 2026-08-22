@@ -1,0 +1,9 @@
+blush_anim_0.5
+sp2
+
+You lean your mouth towards their tail and they immediately jump back.
+"Eww, what do you think you're trying to do?"
+You continue after them until they're backed into the edge of the platform.
+
+Go for the kill.
+north_6a2.txt

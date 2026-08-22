@@ -1,0 +1,12 @@
+sm5
+rv4
+
+You try to move, but the beast is practically as large as the entire interior of the cave.
+Its mechanical jaw crushes around you like a prison.
+The other slugcat slips out swiftly with a giggle,
+while the jaws clamp shut and shatter every bone in your body.
+
+RESTART
+start.txt
+
+FADE

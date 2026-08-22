@@ -1,0 +1,15 @@
+sm5
+none
+
+You decide to jump down into the puddle too, and find out where they went.
+You slip down into the frigid water and begin to gasp as the
+cold water rapidly seeps through your thick skin.
+You try to look around underwater, but you can't see the other slugcat anywhere.
+You flail your arms about, and try to tread water, but it is no use.
+You're disoriented and lose track of the way back out.
+It is only a few seconds later before you pass out.
+
+RESTART
+start.txt
+
+FADE

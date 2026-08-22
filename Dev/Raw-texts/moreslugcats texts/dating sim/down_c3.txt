@@ -1,0 +1,13 @@
+sm2
+sa3
+
+They finally stop their pursuit and turn to look at you.
+"Why?" They ask with an expressionless look.
+"trust me it wont taste good."
+"Oh, I wasn't going to eat it. Plus, I'm more of a taco guy myself."
+They give the slightest impression of a grin, then turn back towards the egg.
+
+Wait and observe.
+down_c5.txt
+Take the egg back.
+down_c4.txt

@@ -1,0 +1,10 @@
+﻿0-105
+Ah, did you find this in the waste department? It is a log of microbial levels in a waste digestion tank.
+
+Most structures on the surface are made to last, often through multiple methods, material<LINE>to microbial. This makes them resistant to even the heaviest rains we can produce. However,<LINE>it makes recycling and disposal of damaged machinery quite difficult!
+
+It is often easier to render them down to their base materials, than to try and repair or disassemble<LINE>them. Large digestion tanks are used to break the materials down chemically, and all of that is managed<LINE>by tiny purposed organisms and microbes in the tank's mix that control the rate of decomposition.
+
+Unfortunately, the process itself produces some extremely volatile materials. Efforts<LINE>were made to encourage the microbes to form better symbiotic bonds with the other tank<LINE>managing organisms, but a reduction in explosive compounds was never achieved.
+
+Thankfully, the fluid in the tanks is designed to be very thick and heavy, and very few creatures can survive<LINE>direct exposure. So it's unlikely that the disposal microbes will integrate into the surrounding ecosystem.

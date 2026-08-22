@@ -1,0 +1,15 @@
+sm7b
+grl1
+
+You look up and see a terrifying face and form,
+a monstrous, bestial visage that fills you with unquenchable dread.
+You'd recognize that face anywhere.
+You try to resist the urge to squeal in delight.
+You're their biggest fan.
+
+Feel the creature's muscles.
+down_7a.txt
+"Can I have your autograph?"
+down_7b.txt
+Interview the creature.
+down_7c.txt

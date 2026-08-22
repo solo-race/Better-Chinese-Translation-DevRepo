@@ -1,0 +1,10 @@
+sm5b
+grl1
+
+The creature grabs you by the neck, lifting you off the ground by your fleshy appendages.
+You see a long, sharpened, canine tooth on the upper jaw protrude as the beast opens its mouth to bite you.
+The creature is without doubt the largest and most powerful predator you've ever come across. 
+The way it stands and holds itself suggests an immense amount of strength and stability.
+
+You blush profusely.
+down_8.txt

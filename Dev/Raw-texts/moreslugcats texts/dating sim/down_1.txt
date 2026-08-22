@@ -1,0 +1,11 @@
+sm1
+none
+
+You descend beneath the ground, to the deepest reaches where the nature of reality distorts, the
+fog demons roam, and past civilizations border the void. Surely for someone with your experiences,
+this would be the most appropriate location to potentially find a mate to spend your life with.
+However, it is not always so.
+Once the search begins, one does not always find what they are looking for.
+
+Explore the void.
+down_2.txt

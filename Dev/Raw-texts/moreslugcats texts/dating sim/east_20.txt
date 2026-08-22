@@ -1,0 +1,14 @@
+sm1
+bsm2
+
+She suddenly pauses in the air with the egg.
+"Wait a second... this egg?!"
+"yea its an egg."
+"This egg is just the right amount of portable."
+"yea eggs tend to be that way."
+"This recipe would be just the right technical implementation."
+"implement this food into my mouth."
+"Could this be the solution?!"
+
+"solution to my hunger, yes."
+east_21.txt

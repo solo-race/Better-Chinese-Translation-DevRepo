@@ -1,0 +1,12 @@
+agony_anim_1.0
+gm7
+
+You pounce to the edge of the singularity's gravity field and 
+slide cancel backwards into the outer 5% of the shockwave's radius.
+You were two pixels off, however, and immediately get sucked into the core of the singularity.
+Every atom in your body is jostled as you become extremely dead.
+
+RESTART
+start.txt
+
+FADE

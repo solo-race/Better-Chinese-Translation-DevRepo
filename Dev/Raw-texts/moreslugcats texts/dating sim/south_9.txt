@@ -1,0 +1,12 @@
+sm4
+eggzero
+
+You walk towards the figures emerging from the light, and they embrace you. 
+Their slimy bodies feel warm to the touch, and you feel tears escape your eyes. 
+You have never felt so loved in your life. 
+You enter the light as a family.
+
+Accept your fate.
+END
+Retry.
+start.txt

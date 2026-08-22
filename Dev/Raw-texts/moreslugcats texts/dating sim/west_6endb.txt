@@ -1,0 +1,15 @@
+sm6
+gm7
+
+You list the many dangerous things you encountered on your journey to find a mate.
+"I don't know what any of that stuff means..."
+The hefty slugcat seems even more confused.
+"nvm," you say. "ill just find the colony, lol."
+You begin to walk away, but the hefty slugcat stops you.
+"I can't let you do that. You're an intruder."
+"i need to see it! wat if my fated mate is there?? i cant let this go."
+The hefty slugcat stares at you with apathy.
+"Look, I get that you have needs, and I sympathize. But if you go to our colony, we're gonna have issues."
+
+Maneuver your way past.
+west_6endc.txt

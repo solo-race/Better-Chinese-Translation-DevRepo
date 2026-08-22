@@ -1,0 +1,12 @@
+sm5
+sp2b
+
+"Man, whatever, I don't have time for this, the rain is going to come soon."
+Spearmaster takes the spear and chucks it at your torso.
+It's not a pleasant experience, and you quickly lose consciousness.
+Your nutrients leave your body.
+
+RESTART
+start.txt
+
+FADE

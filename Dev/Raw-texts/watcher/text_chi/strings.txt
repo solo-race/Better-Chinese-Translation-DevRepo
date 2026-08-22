@@ -1,0 +1,118 @@
+﻿0Hold DOWN and SPECIAL together to create a path to a chosen destination|同时按住“下方向键”和“特殊按键”以创建一条通往所选目的地的路径
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|在没有业力花的时候，同时按住上键和特殊键并不稳定且十分危险
+creaturetype-MothGrub|蛾螬
+Unfortunate Evolution|不幸演化
+creaturetype-Barnacle|藤壶
+creaturetype-SandGrub|沙螬
+creaturetype-SkyWhale|天空鲸
+creaturetype-RotLoach|腐化巨兽
+creaturetype-RippleSpider|涟漪蜘蛛
+Press VIEW to cancel warp|按“视图”取消传送
+creaturetype-IndigoLizard|靛蓝蜥蜴
+creaturetype-GrappleSnake|扭蛇
+creaturetype-PeachLizard|桃蜥蜴
+The Crown upon the thorn|荆棘上的王冠
+creaturetype-BigSandGrub|沙虫
+objecttype-Pomegranate|石榴
+creaturetype-DrillCrab|钻蟹
+creaturetype-SmallMoth|小蛾
+creaturetype-Millipede|马陆
+objecttype-GraffitiBomb|涂鸦炸弹
+The Lantern in the dusk|薄暮中的灯笼
+creaturetype-FireSprite|火精灵
+creaturetype-Tardigrade|水熊虫
+Press PAUSE BUTTON to cancel warp|按“暂停”键取消传送
+The paths overflow beyond measure|路径超出限度
+Oh such enthusiasm! I am honored!|噢，真有激情！我好荣幸！
+Press + Button to cancel warp|按“+”键取消传送
+Press - Button to cancel warp|按“-”键取消传送
+watcher-character-description|一个局外者，孤独又疏离，持续观察却不入局。<LINE>这样的距离带来了新的视角和联系。这是一段独一无二的旅程。
+creaturetype-ScavengerTemplar|拾荒者圣堂武士
+Press OPTIONS BUTTON to cancel warp|按“OPTIONS”键取消传送
+A presence already binds this place|一个存在已经和这个地方绑定了
+This fringe is already too unstable|边缘已经很不稳定了
+Nothing to waste, every bit counts!|没有浪费，每份都算数！
+SPECIAL button - Hold to warp to selected region|特殊按键 - 按住以传送至选定区域
+Free them. They will show you the way.|解放它们。它们会为你指路。
+The Child forsaken to time|被时间遗弃的孩子
+objecttype-FireSpriteLarva|火精灵幼体
+THE WATCHER|观望者
+The Watcher|观望者
+Coral Caves|珊瑚洞穴
+The Surface|表面
+Hydroponics|水培法
+Watcher|观望者
+Outer Rim|外缘
+Deep Reef|深礁
+Rusted Wrecks|锈蚀残骸
+Torrid Desert|炎热沙漠
+Thermal Relay|热继电器
+Station Annex|车站别馆
+Signal Spires|信号尖塔
+Ancient Urban|上古城市
+Stormy Coast|风暴海岸
+Cold Storage|冷库
+Tundra Fault|苔原断层
+Aether Ridge|以太山脊
+Pillar Grove|柱林
+Turbulent Pump|涡流泵
+Desolate Tract|凄凉地带
+Aerial Tramway|高架电车道
+Fallen Tramway|陷落电车道
+Sunbaked Alley|烈日巷
+Migration Path|迁徙之路
+Blast Deck|爆裂甲板
+Ridgeworks|山脊工程
+Salination|盐化区
+Heat Ducts|供热管道
+Fetid Glen|腐臭幽谷
+The Throne|王座
+Marvelous!|神奇！
+Shattered Terrace|破碎露台
+Verdant Waterways|翠绿水道
+Crumbling Fringes|欲坠边缘
+creaturetype-Frog|青蛙
+LeaveSpinningTop1|嘻！看看！这也太蠢了，不配得到关注！嘻嘻嘻嘻！！
+LeaveSpinningTop2|嘻！太无礼了！！我本来还打算送它个礼物呢。
+DieAtSpinningTop1|嘻嘻嘻！！是的！！！回你的地底去吧！真是个笨蛋！！嘻嘻嘻嘻嘻
+DieAtSpinningTop2|嘻嘻！看吧！！它们已经抓到你了！嘻嘻嘻嘻嘻
+DieAtSpinningTop3|嘻嘻嘻嘻嘻嘻！！看起来这里也一样？？愚蠢到活不了，卑劣到死不了。<LINE>真无聊！啧！我要离开了。
+So vital! Hah ha!|真有活力！哈！哈！
+Badlands|不毛之地
+Decaying Tunnels|衰败隧道
+creaturetype-Rat|老鼠
+Ah! So spirited!|啊！如此英勇！
+Infested Wastes|受侵染的废土
+Shrouded Stacks|隐蔽堆层
+Corrupted Factories|腐化工厂
+Torrential Railways|暴雨铁路
+creaturetype-Angler|琵琶鱼
+Daemon|恶魔
+Fractured Gateways|断裂通道
+creaturetype-Loach|泥鳅
+Oh, show me again!|噢，再给我看看！
+creaturetype-BigMoth|大蛾
+creaturetype-BoxWorm|箱虫
+creaturetype-Rattler|震骨者
+objecttype-Boomerang|回旋镖
+creaturetype-ScavengerDisciple|拾荒者门徒
+Oh, you have brought sundries?|哦，你带来了杂物？
+Never again will you be alone.|你再也不会孤单了。
+Oh, my friend, you have grown!|哦，我的朋友，你成长了！
+creaturetype-BlizzardLizard|暴雪蜥蜴
+creaturetype-BasiliskLizard|蛇怪蜥蜴
+Hold the SPECIAL button to camouflage from predators|按住特殊键以针对掠食者进行伪装
+Hold UP and SPECIAL together to form new random paths|同时按住上键和特殊键以形成新的随机路径
+Delight! For you will be exalted in this new kingdom!|欣喜吧！因为在这个新王国中，你将受到尊崇！
+This will consume the effect of a karma flower in the process|此过程将会消耗一朵业力花的效果
+However, this can also form new random paths in a pinch|不过这样也能在紧要关头形成新的随机路径
+You can leave them here if you wish, as a contribution.|如果你愿意，可以把它们留在这里当做贡献。
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|穿到新边境会对身体带来很大负担，不过睡觉有助于恢复
+Traveling too deep without resting will have consequences|不眠不休地往深处旅行会产生某些后果
+This remains a place of rest|这还是一处休憩之地
+It is a joy to see you play!|看你出手真有乐趣！
+My processes will dissolve them to their base components and those components will be added to the mass.|我的过程会把它们分解成基本成分，然后这些成分会被添加到整体里。
+Ahh yes! The paths! How wonderous!|啊对！路径！如此奇妙！
+How auspicious it was, our meeting...|我们的见面多么吉利……
+Forgive me if I cannot respond in kind. This body is so limited...|请原谅我无法以同样的方式回应。这具躯体实在受限……
+How I have wished for this day. My dear friend, welcome.|我一直盼望着这一天。亲爱的朋友，欢迎你。

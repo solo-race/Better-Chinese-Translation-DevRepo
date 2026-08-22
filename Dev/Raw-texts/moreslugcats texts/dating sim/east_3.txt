@@ -1,0 +1,12 @@
+sm8
+rv4
+
+A creature suddenly springs out at an alarming speed.
+It's another slugcat like you, except blue colored with some kind of strange aquatic gills on their face.
+They jump up and down in excitement upon seeing you.
+"It's another slugcat! It's another slugcat!" It says, clearly an energetic one.
+It continues speaking excitedly.
+"Hwah! Another slugcat! Did you come here to scavenge materials too?!"
+
+"im scavenging for love <3"
+east_4.txt

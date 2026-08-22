@@ -1,0 +1,11 @@
+agony_001
+sp3b
+
+It's bright... extremely bright. But only for a moment.
+With all its might, Spearmaster's spear sucks the singularity into it, absorbing it as a nutrient.
+The distortion of space subsides, but spearmaster's spear
+and attached umbilical begin to glow with a blinding light.
+"What... is this? I can't absorb it all...!!"
+
+Reach your hand out to rescue Spearmaster.
+north_9c.txt

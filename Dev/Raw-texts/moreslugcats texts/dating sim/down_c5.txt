@@ -1,0 +1,13 @@
+sm1
+sa3
+
+You know what you'd do with the egg, but part of you is curious to see what other uses this egg might have.
+Does this slugcat know something that you don't? You sit back and watch.
+"wat r u going to do with it then?"
+"I don't know how this got in your possession, but I've been looking for this for a long time."
+"cool, but wat u need it for?"
+"This will finally solve everything." The slugcat's fur stands up on end.
+"ok..."
+
+"sure dude, u can borrow it for a bit..."
+down_c6.txt
