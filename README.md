@@ -2,6 +2,9 @@
 ### Rain World Chinese Localization Improvement #####
 ======================================================================================
 
+## DEV PURPOSE ONLY, DO NOT DOWNLOAD AS A MOD ##
+## 本仓库为开发仓库，而非模组，请勿错误下载 ##
+
 ### Purpose
 1. Improve the official Chinese localization of Rain World.
 2. Add translations missing from the official translation.
@@ -9,9 +12,9 @@
 4. Hotfix for a bug where the game crashes upon switching languages, caused by glyph chart switching behavior.
 
 ### Current status
-- A release has been out in late 2025.
-- For newer updates of the game, the viability of the translation changes has not been checked.
-- The viability of the `.dll` plugin has not yet been verified.
+- Release created on Aug. 22, 2026
+- Visibility of translation has been check on game version 1.1
+- The plugin has passed in-game tests of its functionality. 
 - The original utility codebase is located here: <https://github.com/HarvieSorroway/BetterChineseTransUtils>
 - The upstream repository should only be read; do not attempt cloning without user permission.
 
