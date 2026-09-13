@@ -1,5 +1,5 @@
 ======================================================================================
-### Rain World Chinese Localization Improvement #####
+# Rain World Chinese Localization Improvement #
 ======================================================================================
 
 ## DEV PURPOSE ONLY, DO NOT DOWNLOAD AS A MOD ##
